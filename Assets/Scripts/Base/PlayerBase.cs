@@ -11,12 +11,22 @@ public class PlayerBase : MonoBehaviour
     }
 
     [SerializeField]
-    private KeyCode Jump, Left, Right, Down;
-    private float speed = 0.1f;
+    private KeyCode Jump = KeyCode.W;
     [SerializeField]
+    private KeyCode Left = KeyCode.A;
+    [SerializeField]
+    private KeyCode Right = KeyCode.D;
+    [SerializeField]
+    private KeyCode Down = KeyCode.S;
+
+    private float speed = 0.1f;
+
+    [SerializeField]
+    private KeyCode LightAttack = KeyCode.F;
+
     private bool OnPlatform = false;
 
-    private Rigidbody ownRigidbody;
+    private Rigidbody2D ownRigidbody;
 
     void Awake()
     {
@@ -30,7 +40,7 @@ public class PlayerBase : MonoBehaviour
 
     public virtual void Init()
     {
-        ownRigidbody = GetComponent<Rigidbody>();
+        ownRigidbody = GetComponent<Rigidbody2D>();
     }
 
     public void SendInformationToArena()
@@ -56,15 +66,22 @@ public class PlayerBase : MonoBehaviour
         }
     }
 
-    private void On2DCollision2DEnter(Collision col)
+    private void OnCollisionEnter2D(Collision2D col)
     {
-        if(col.transform.tag == "Platform")
+        Debug.Log("Showme = " + col.transform.gameObject.name);
+        if (col.transform.tag == "LightAtk")
+        {
+            //TODO Delayfrom movement
+        }
+
+        if (col.transform.tag == "Platform")
         {
             OnPlatform = true;
         }
+
     }
 
-    private void OnCollision2DExit(Collision col)
+    private void OnCollisionExit2D(Collision2D col)
     {
         if (col.transform.tag == "Platform")
         {
@@ -80,5 +97,21 @@ public class PlayerBase : MonoBehaviour
         }
     }
 
+    public string attack()
+    {
+        if (Input.GetKeyDown(LightAttack))
+        {
+            return "Light";
+        }
+        else
+        {
+            return "Wait";
+        }
+    }
+
+    public void TakeDamage()
+    {
+
+    }
 
 }
