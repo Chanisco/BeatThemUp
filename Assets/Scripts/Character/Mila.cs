@@ -2,8 +2,9 @@
 using System.Collections;
 
 public class Mila : PlayerBase {
-
     [SerializeField] private GameObject LightAttackObject;
+
+    [SerializeField] private GameObject AreaCheckHitBox;
 
 
     void Update()
@@ -15,4 +16,5 @@ public class Mila : PlayerBase {
         }
         BasicMovement();
     }
+    
 }

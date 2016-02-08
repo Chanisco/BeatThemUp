@@ -25,7 +25,7 @@ public class PlayerBase : MonoBehaviour
     private KeyCode LightAttack = KeyCode.F;
 
     private bool OnPlatform = false;
-
+    [SerializeField]
     private Rigidbody2D ownRigidbody;
 
     void Awake()
@@ -40,7 +40,7 @@ public class PlayerBase : MonoBehaviour
 
     public virtual void Init()
     {
-        ownRigidbody = GetComponent<Rigidbody2D>();
+       // ownRigidbody = GetComponent<Rigidbody2D>();
     }
 
     public void SendInformationToArena()
@@ -68,7 +68,7 @@ public class PlayerBase : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D col)
     {
-        Debug.Log("Showme = " + col.transform.gameObject.name);
+       // Debug.Log("Showme = " + col.transform.gameObject.name);
         if (col.transform.tag == "LightAtk")
         {
             //TODO Delayfrom movement
