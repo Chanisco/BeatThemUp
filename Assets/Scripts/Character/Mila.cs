@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
-public class Mila : PlayerBase {
+public class Mila : PlayerBase{
     [SerializeField] private GameObject LightAttackObject;
-
     [SerializeField] private GameObject AreaCheckHitBox;
 
 
@@ -14,8 +14,8 @@ public class Mila : PlayerBase {
             LightAttackObject.SetActive(true);
 
         }
-        
 
+        LookAtOpponent();
         BasicMovement();
     }
     
