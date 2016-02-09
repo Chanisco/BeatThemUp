@@ -12,8 +12,10 @@ public class Mila : PlayerBase {
         if(attack() == "Light")
         {
             LightAttackObject.SetActive(true);
-            
+
         }
+        
+
         BasicMovement();
     }
     

@@ -32,11 +32,7 @@ public class PlayerBase : MonoBehaviour
     {
         Init();
     }
-
-    void Update()
-    {
-
-    }
+    
 
     public virtual void Init()
     {
@@ -113,5 +109,6 @@ public class PlayerBase : MonoBehaviour
     {
 
     }
+    
 
 }

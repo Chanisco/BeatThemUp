@@ -9,6 +9,8 @@ public class AreaCheckHitBox : MonoBehaviour {
         if(col.gameObject.tag == "Player")
         {
             Collision = "Player";
+            Debug.Log("Bite me");
+                
         }
 
     }
