@@ -14,12 +14,11 @@ public class Healthbar : MonoBehaviour {
 	[SerializeField] Font font;
 	[SerializePrivateVariables] string add0string = "";
 
-	void Start(){
+	void Awake(){
 		style = new GUIStyle ();
 		style.font = font;
 		style.normal.textColor = Color.red;
 		style.fontSize = (20 * 1920)/Screen.width;
-		Init (2);
 	}
 
 	public void Init(int playerAmount){
