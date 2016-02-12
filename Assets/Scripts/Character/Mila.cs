@@ -21,7 +21,7 @@ public class Mila : PlayerBase{
     void Hit(float Lifetime,float Damage,HitPosition HitArea)
     {
         AttackHitbox.hitboxClass.hitArea = HitArea;
-        AttackHitbox.hitboxClass.damage = Damage / 2;
+        AttackHitbox.hitboxClass.damage = Damage;
         AttackHitbox.hitboxClass.lifetime = Lifetime;
         AttackHitbox.objectGameObject.SetActive(true);
     }

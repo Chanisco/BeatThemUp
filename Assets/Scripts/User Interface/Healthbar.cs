@@ -29,7 +29,7 @@ public class Healthbar : MonoBehaviour {
 	}
 
 	public void ChangeHealth(int playerNumber, float change){
-		playerHealth [playerNumber] += change;
+		playerHealth [playerNumber] = change;
 		if (playerHealth [playerNumber] <= 0) {
 			Debug.Log("Dead");
 		}
@@ -51,8 +51,8 @@ public class Healthbar : MonoBehaviour {
 		}
 		showHealth [0] = Mathf.SmoothStep (showHealth [0], playerHealth [0], dropSpeed);
 		showHealth [1] = Mathf.SmoothStep (showHealth [1], playerHealth [1], dropSpeed);
-		if(Input.GetKeyDown(KeyCode.A)){
+	/*	if(Input.GetKeyDown(KeyCode.A)){
 			ChangeHealth(0,Random.Range(-1,-5));
-		}
+		}*/
 	}
 }

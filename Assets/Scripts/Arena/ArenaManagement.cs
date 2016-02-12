@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using Controlls;
 namespace Arena
 {
     public class ArenaManagement : MonoBehaviour
@@ -46,7 +47,10 @@ namespace Arena
 
         void CheckOnHealth()
         {
-
+            healthBar.ChangeHealth(0, Players[0].playerInformation.lifePoints);
+            Debug.Log(Players[0].playerInformation.lifePoints);
+            healthBar.ChangeHealth(1, Players[1].playerInformation.lifePoints);
+            Debug.Log(Players[1].playerInformation.lifePoints);
 
         }
 
@@ -58,17 +62,19 @@ namespace Arena
                 {
                     case 0:
                         GameObject Player1 = Instantiate(chosenCharacters[i], new Vector3(-5, 0, 0), Quaternion.identity) as GameObject;
-                        Player1.name = chosenCharacters[i].name;
+                        Player1.name = chosenCharacters[i].name + i;
                         Player1.transform.parent = transform;
                         PlayerBase Player1Base = Player1.GetComponent<PlayerBase>();
+                        Player1Base.playerCommands = PlayerControllBase.Player1Settings();
                         Players.Add(new PlayerData(i, CharacterEnum.Mila, true, Player1Base));
 
                     break;
                     case 1:
                         GameObject Player2 = Instantiate(chosenCharacters[i], new Vector3(5, 0, 0), Quaternion.identity) as GameObject;
-                        Player2.name = chosenCharacters[i].name;
+                        Player2.name = chosenCharacters[i].name + i;
                         Player2.transform.parent = transform;
                         PlayerBase Player2Base = Player2.GetComponent<PlayerBase>();
+                        Player2Base.playerCommands = PlayerControllBase.Player2Settings();
                         Players.Add(new PlayerData(i, CharacterEnum.Mila, true, Player2Base));
 
                     break;
@@ -79,6 +85,9 @@ namespace Arena
         }
 
     }
+
+
+
     [System.Serializable]
     public class PlayerData
     {

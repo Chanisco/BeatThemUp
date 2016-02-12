@@ -6,7 +6,8 @@ using Arena;
 public class PlayerBase : MonoBehaviour
 {
     [SerializeField] public List<FoundObject> Intuition = new List<FoundObject>();
-    [SerializeField] private float lifePoints = 100;
+    [SerializeField] public float lifePoints = 100;
+    [SerializeField] public PlayerCommands playerCommands;
 
     enum PositionAgainstPlayer
     {
@@ -14,16 +15,7 @@ public class PlayerBase : MonoBehaviour
         RightOpponent
     }
 
-    [SerializeField] private KeyCode Jump = KeyCode.W;
-    [SerializeField]
-    private KeyCode Left = KeyCode.A;
-    [SerializeField]
-    private KeyCode Right = KeyCode.D;
-
     private float speed = 0.1f;
-
-    [SerializeField]
-    private KeyCode LightAttack = KeyCode.F;
 
     private bool OnPlatform = false;
 
@@ -39,11 +31,6 @@ public class PlayerBase : MonoBehaviour
     public virtual void Init()
     {
 
-
-    }
-
-    public void SendInformationToArena()
-    {
 
     }
 
@@ -86,7 +73,7 @@ public class PlayerBase : MonoBehaviour
     //Commands
     public virtual void BasicMovement()
     {
-        if (Input.GetKey(Left))
+        if (Input.GetKey(playerCommands.left))
         {
             transform.Translate(-1 * speed,0,0);
             if(opponent == null)
@@ -94,7 +81,7 @@ public class PlayerBase : MonoBehaviour
                 transform.localScale = new Vector2(-1, 1);
             }
         }
-        else if (Input.GetKey(Right))
+        else if (Input.GetKey(playerCommands.right))
         {
             transform.Translate(1 * speed, 0, 0);
             if (opponent == null)
@@ -103,7 +90,7 @@ public class PlayerBase : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(Jump))
+        if (Input.GetKeyDown(playerCommands.up))
         {
             JumpCommand();
         }
@@ -156,13 +143,13 @@ public class PlayerBase : MonoBehaviour
     {
         if (OnPlatform)
         {
-            ownRigidbody.velocity = new Vector3(0, 7, 0);
+            ownRigidbody.velocity = new Vector3(0, 5, 0);
         }
     }
 
     public string attack()
     {
-        if (Input.GetKeyDown(LightAttack))
+        if (Input.GetKeyDown(playerCommands.attack))
         {
             return "Light";
         }
@@ -170,11 +157,6 @@ public class PlayerBase : MonoBehaviour
         {
             return "Idle";
         }
-    }
-
-    public void TakeDamage()
-    {
-
     }
     
 

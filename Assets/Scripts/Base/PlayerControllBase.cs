@@ -6,33 +6,35 @@ namespace Controlls
 {
     public class PlayerControllBase : MonoBehaviour
     {
-        playerCommands Player1Settings()
+        public static PlayerCommands Player1Settings()
         {
-            return playerCommands();
+            return new PlayerCommands(KeyCode.A, KeyCode.D, KeyCode.W, KeyCode.F);
         }
 
-        playerCommands Player2Settings()
+        public static PlayerCommands Player2Settings()
         {
-            return playerCommands();
+            return new PlayerCommands(KeyCode.LeftArrow, KeyCode.RightArrow, KeyCode.UpArrow, KeyCode.Keypad3);
         }
     }
 
-    public class playerCommands
+  
+}
+[System.Serializable]
+public class PlayerCommands
+{
+    public KeyCode left;
+    public KeyCode right;
+    public KeyCode up;
+
+    public KeyCode attack;
+
+    public PlayerCommands(KeyCode Left, KeyCode Right, KeyCode Up, KeyCode Attack)
     {
-        public KeyCode left;
-        public KeyCode right;
-        public KeyCode up;
+        this.left = Left;
+        this.right = Right;
+        this.up = Up;
 
-        public KeyCode attack;
-
-        public playerCommands(KeyCode Left, KeyCode Right, KeyCode Up, KeyCode Attack)
-        {
-            this.left = Left;
-            this.right = Right;
-            this.up = Up;
-
-            this.attack = Attack;
-        }
-
+        this.attack = Attack;
     }
+
 }
