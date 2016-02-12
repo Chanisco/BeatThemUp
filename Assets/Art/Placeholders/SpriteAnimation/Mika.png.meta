@@ -1,0 +1,7183 @@
+fileFormatVersion: 2
+guid: 0230c3c329b29664e979481cb60553f2
+timeCreated: 1455230264
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: voor chani_0
+    21300002: voor chani_1
+    21300004: voor chani_2
+    21300006: voor chani_3
+    21300008: voor chani_4
+    21300010: voor chani_5
+    21300012: voor chani_6
+    21300014: voor chani_7
+    21300016: voor chani_8
+    21300018: voor chani_9
+    21300020: voor chani_10
+    21300022: voor chani_11
+    21300024: voor chani_12
+    21300026: voor chani_13
+    21300028: voor chani_14
+    21300030: voor chani_15
+    21300032: voor chani_16
+    21300034: voor chani_17
+    21300036: voor chani_18
+    21300038: voor chani_19
+    21300040: voor chani_20
+    21300042: voor chani_21
+    21300044: voor chani_22
+    21300046: voor chani_23
+    21300048: voor chani_24
+    21300050: voor chani_25
+    21300052: voor chani_26
+    21300054: voor chani_27
+    21300056: voor chani_28
+    21300058: voor chani_29
+    21300060: voor chani_30
+    21300062: voor chani_31
+    21300064: voor chani_32
+    21300066: voor chani_33
+    21300068: voor chani_34
+    21300070: voor chani_35
+    21300072: voor chani_36
+    21300074: voor chani_37
+    21300076: voor chani_38
+    21300078: voor chani_39
+    21300080: voor chani_40
+    21300082: voor chani_41
+    21300084: voor chani_42
+    21300086: voor chani_43
+    21300088: voor chani_44
+    21300090: voor chani_45
+    21300092: voor chani_46
+    21300094: voor chani_47
+    21300096: voor chani_48
+    21300098: voor chani_49
+    21300100: voor chani_50
+    21300102: voor chani_51
+    21300104: voor chani_52
+    21300106: voor chani_53
+    21300108: voor chani_54
+    21300110: voor chani_55
+    21300112: voor chani_56
+    21300114: voor chani_57
+    21300116: voor chani_58
+    21300118: voor chani_59
+    21300120: voor chani_60
+    21300122: voor chani_61
+    21300124: voor chani_62
+    21300126: voor chani_63
+    21300128: voor chani_64
+    21300130: voor chani_65
+    21300132: voor chani_66
+    21300134: voor chani_67
+    21300136: voor chani_68
+    21300138: voor chani_69
+    21300140: voor chani_70
+    21300142: voor chani_71
+    21300144: voor chani_72
+    21300146: voor chani_73
+    21300148: voor chani_74
+    21300150: voor chani_75
+    21300152: voor chani_76
+    21300154: voor chani_77
+    21300156: voor chani_78
+    21300158: voor chani_79
+    21300160: voor chani_80
+    21300162: voor chani_81
+    21300164: voor chani_82
+    21300166: voor chani_83
+    21300168: voor chani_84
+    21300170: voor chani_85
+    21300172: voor chani_86
+    21300174: voor chani_87
+    21300176: voor chani_88
+    21300178: voor chani_89
+    21300180: voor chani_90
+    21300182: voor chani_91
+    21300184: voor chani_92
+    21300186: voor chani_93
+    21300188: voor chani_94
+    21300190: voor chani_95
+    21300192: voor chani_96
+    21300194: voor chani_97
+    21300196: voor chani_98
+    21300198: voor chani_99
+    21300200: voor chani_100
+    21300202: voor chani_101
+    21300204: voor chani_102
+    21300206: voor chani_103
+    21300208: voor chani_104
+    21300210: voor chani_105
+    21300212: voor chani_106
+    21300214: voor chani_107
+    21300216: voor chani_108
+    21300218: voor chani_109
+    21300220: voor chani_110
+    21300222: voor chani_111
+    21300224: voor chani_112
+    21300226: voor chani_113
+    21300228: voor chani_114
+    21300230: voor chani_115
+    21300232: voor chani_116
+    21300234: voor chani_117
+    21300236: voor chani_118
+    21300238: voor chani_119
+    21300240: voor chani_120
+    21300242: voor chani_121
+    21300244: voor chani_122
+    21300246: voor chani_123
+    21300248: voor chani_124
+    21300250: voor chani_125
+    21300252: voor chani_126
+    21300254: voor chani_127
+    21300256: voor chani_128
+    21300258: voor chani_129
+    21300260: voor chani_130
+    21300262: voor chani_131
+    21300264: voor chani_132
+    21300266: voor chani_133
+    21300268: voor chani_134
+    21300270: voor chani_135
+    21300272: voor chani_136
+    21300274: voor chani_137
+    21300276: voor chani_138
+    21300278: voor chani_139
+    21300280: voor chani_140
+    21300282: voor chani_141
+    21300284: voor chani_142
+    21300286: voor chani_143
+    21300288: voor chani_144
+    21300290: voor chani_145
+    21300292: voor chani_146
+    21300294: voor chani_147
+    21300296: voor chani_148
+    21300298: voor chani_149
+    21300300: voor chani_150
+    21300302: voor chani_151
+    21300304: voor chani_152
+    21300306: voor chani_153
+    21300308: voor chani_154
+    21300310: voor chani_155
+    21300312: voor chani_156
+    21300314: voor chani_157
+    21300316: voor chani_158
+    21300318: voor chani_159
+    21300320: voor chani_160
+    21300322: voor chani_161
+    21300324: voor chani_162
+    21300326: voor chani_163
+    21300328: voor chani_164
+    21300330: voor chani_165
+    21300332: voor chani_166
+    21300334: voor chani_167
+    21300336: voor chani_168
+    21300338: voor chani_169
+    21300340: voor chani_170
+    21300342: voor chani_171
+    21300344: voor chani_172
+    21300346: voor chani_173
+    21300348: voor chani_174
+    21300350: voor chani_175
+    21300352: voor chani_176
+    21300354: voor chani_177
+    21300356: voor chani_178
+    21300358: voor chani_179
+    21300360: voor chani_180
+    21300362: voor chani_181
+    21300364: voor chani_182
+    21300366: voor chani_183
+    21300368: voor chani_184
+    21300370: voor chani_185
+    21300372: voor chani_186
+    21300374: voor chani_187
+    21300376: voor chani_188
+    21300378: voor chani_189
+    21300380: voor chani_190
+    21300382: voor chani_191
+    21300384: voor chani_192
+    21300386: voor chani_193
+    21300388: voor chani_194
+    21300390: voor chani_195
+    21300392: voor chani_196
+    21300394: voor chani_197
+    21300396: voor chani_198
+    21300398: voor chani_199
+    21300400: voor chani_200
+    21300402: voor chani_201
+    21300404: voor chani_202
+    21300406: voor chani_203
+    21300408: voor chani_204
+    21300410: voor chani_205
+    21300412: voor chani_206
+    21300414: voor chani_207
+    21300416: voor chani_208
+    21300418: voor chani_209
+    21300420: voor chani_210
+    21300422: voor chani_211
+    21300424: voor chani_212
+    21300426: voor chani_213
+    21300428: voor chani_214
+    21300430: voor chani_215
+    21300432: voor chani_216
+    21300434: voor chani_217
+    21300436: voor chani_218
+    21300438: voor chani_219
+    21300440: voor chani_220
+    21300442: voor chani_221
+    21300444: voor chani_222
+    21300446: voor chani_223
+    21300448: voor chani_224
+    21300450: voor chani_225
+    21300452: voor chani_226
+    21300454: voor chani_227
+    21300456: voor chani_228
+    21300458: voor chani_229
+    21300460: voor chani_230
+    21300462: voor chani_231
+    21300464: voor chani_232
+    21300466: voor chani_233
+    21300468: voor chani_234
+    21300470: voor chani_235
+    21300472: voor chani_236
+    21300474: voor chani_237
+    21300476: voor chani_238
+    21300478: voor chani_239
+    21300480: voor chani_240
+    21300482: voor chani_241
+    21300484: voor chani_242
+    21300486: voor chani_243
+    21300488: voor chani_244
+    21300490: voor chani_245
+    21300492: voor chani_246
+    21300494: voor chani_247
+    21300496: voor chani_248
+    21300498: voor chani_249
+    21300500: voor chani_250
+    21300502: voor chani_251
+    21300504: voor chani_252
+    21300506: voor chani_253
+    21300508: voor chani_254
+    21300510: voor chani_255
+    21300512: voor chani_256
+    21300514: voor chani_257
+    21300516: voor chani_258
+    21300518: voor chani_259
+    21300520: voor chani_260
+    21300522: voor chani_261
+    21300524: voor chani_262
+    21300526: voor chani_263
+    21300528: voor chani_264
+    21300530: voor chani_265
+    21300532: voor chani_266
+    21300534: voor chani_267
+    21300536: voor chani_268
+    21300538: voor chani_269
+    21300540: voor chani_270
+    21300542: voor chani_271
+    21300544: voor chani_272
+    21300546: voor chani_273
+    21300548: voor chani_274
+    21300550: voor chani_275
+    21300552: voor chani_276
+    21300554: voor chani_277
+    21300556: voor chani_278
+    21300558: voor chani_279
+    21300560: voor chani_280
+    21300562: voor chani_281
+    21300564: voor chani_282
+    21300566: voor chani_283
+    21300568: voor chani_284
+    21300570: voor chani_285
+    21300572: voor chani_286
+    21300574: voor chani_287
+    21300576: voor chani_288
+    21300578: voor chani_289
+    21300580: voor chani_290
+    21300582: voor chani_291
+    21300584: voor chani_292
+    21300586: voor chani_293
+    21300588: voor chani_294
+    21300590: voor chani_295
+    21300592: voor chani_296
+    21300594: voor chani_297
+    21300596: voor chani_298
+    21300598: voor chani_299
+    21300600: voor chani_300
+    21300602: voor chani_301
+    21300604: voor chani_302
+    21300606: voor chani_303
+    21300608: voor chani_304
+    21300610: voor chani_305
+    21300612: voor chani_306
+    21300614: voor chani_307
+    21300616: voor chani_308
+    21300618: voor chani_309
+    21300620: voor chani_310
+    21300622: voor chani_311
+    21300624: voor chani_312
+    21300626: voor chani_313
+    21300628: voor chani_314
+    21300630: voor chani_315
+    21300632: voor chani_316
+    21300634: voor chani_317
+    21300636: voor chani_318
+    21300638: voor chani_319
+    21300640: voor chani_320
+    21300642: voor chani_321
+    21300644: voor chani_322
+    21300646: voor chani_323
+    21300648: voor chani_324
+    21300650: voor chani_325
+    21300652: voor chani_326
+    21300654: voor chani_327
+    21300656: voor chani_328
+    21300658: voor chani_329
+    21300660: voor chani_330
+    21300662: voor chani_331
+    21300664: voor chani_332
+    21300666: voor chani_333
+    21300668: voor chani_334
+    21300670: voor chani_335
+    21300672: voor chani_336
+    21300674: voor chani_337
+    21300676: voor chani_338
+    21300678: voor chani_339
+    21300680: voor chani_340
+    21300682: voor chani_341
+    21300684: voor chani_342
+    21300686: voor chani_343
+    21300688: voor chani_344
+    21300690: voor chani_345
+    21300692: voor chani_346
+    21300694: voor chani_347
+    21300696: voor chani_348
+    21300698: voor chani_349
+    21300700: voor chani_350
+    21300702: voor chani_351
+    21300704: voor chani_352
+    21300706: voor chani_353
+    21300708: voor chani_354
+    21300710: voor chani_355
+    21300712: voor chani_356
+    21300714: voor chani_357
+    21300716: voor chani_358
+    21300718: voor chani_359
+    21300720: voor chani_360
+    21300722: voor chani_361
+    21300724: voor chani_362
+    21300726: voor chani_363
+    21300728: voor chani_364
+    21300730: voor chani_365
+    21300732: voor chani_366
+    21300734: voor chani_367
+    21300736: voor chani_368
+    21300738: voor chani_369
+    21300740: voor chani_370
+    21300742: voor chani_371
+    21300744: voor chani_372
+    21300746: voor chani_373
+    21300748: voor chani_374
+    21300750: voor chani_375
+    21300752: voor chani_376
+    21300754: voor chani_377
+    21300756: voor chani_378
+    21300758: voor chani_379
+    21300760: voor chani_380
+    21300762: voor chani_381
+    21300764: voor chani_382
+    21300766: voor chani_383
+    21300768: voor chani_384
+    21300770: voor chani_385
+    21300772: voor chani_386
+    21300774: voor chani_387
+    21300776: voor chani_388
+    21300778: voor chani_389
+    21300780: voor chani_390
+    21300782: voor chani_391
+    21300784: voor chani_392
+    21300786: voor chani_393
+    21300788: voor chani_394
+    21300790: voor chani_395
+    21300792: voor chani_396
+    21300794: voor chani_397
+    21300796: voor chani_398
+    21300798: voor chani_399
+    21300800: voor chani_400
+    21300802: voor chani_401
+    21300804: voor chani_402
+    21300806: voor chani_403
+    21300808: voor chani_404
+    21300810: voor chani_405
+    21300812: voor chani_406
+    21300814: voor chani_407
+    21300816: voor chani_408
+    21300818: voor chani_409
+    21300820: voor chani_410
+    21300822: voor chani_411
+    21300824: voor chani_412
+    21300826: voor chani_413
+    21300828: voor chani_414
+    21300830: voor chani_415
+    21300832: voor chani_416
+    21300834: voor chani_417
+    21300836: voor chani_418
+    21300838: voor chani_419
+    21300840: voor chani_420
+    21300842: voor chani_421
+    21300844: voor chani_422
+    21300846: voor chani_423
+    21300848: voor chani_424
+    21300850: voor chani_425
+    21300852: voor chani_426
+    21300854: voor chani_427
+    21300856: voor chani_428
+    21300858: voor chani_429
+    21300860: voor chani_430
+    21300862: voor chani_431
+    21300864: voor chani_432
+    21300866: voor chani_433
+    21300868: voor chani_434
+    21300870: voor chani_435
+    21300872: voor chani_436
+    21300874: voor chani_437
+    21300876: voor chani_438
+    21300878: voor chani_439
+    21300880: voor chani_440
+    21300882: voor chani_441
+    21300884: voor chani_442
+    21300886: voor chani_443
+    21300888: voor chani_444
+    21300890: voor chani_445
+    21300892: voor chani_446
+    21300894: voor chani_447
+    21300896: voor chani_448
+    21300898: voor chani_449
+    21300900: voor chani_450
+    21300902: voor chani_451
+    21300904: voor chani_452
+    21300906: voor chani_453
+    21300908: voor chani_454
+    21300910: voor chani_455
+    21300912: voor chani_456
+    21300914: voor chani_457
+    21300916: voor chani_458
+    21300918: voor chani_459
+    21300920: voor chani_460
+    21300922: voor chani_461
+    21300924: voor chani_462
+    21300926: voor chani_463
+    21300928: voor chani_464
+    21300930: voor chani_465
+    21300932: voor chani_466
+    21300934: voor chani_467
+    21300936: voor chani_468
+    21300938: voor chani_469
+    21300940: voor chani_470
+    21300942: voor chani_471
+    21300944: voor chani_472
+    21300946: voor chani_473
+    21300948: voor chani_474
+    21300950: voor chani_475
+    21300952: voor chani_476
+    21300954: voor chani_477
+    21300956: voor chani_478
+    21300958: voor chani_479
+    21300960: voor chani_480
+    21300962: voor chani_481
+    21300964: voor chani_482
+    21300966: voor chani_483
+    21300968: voor chani_484
+    21300970: voor chani_485
+    21300972: voor chani_486
+    21300974: voor chani_487
+    21300976: voor chani_488
+    21300978: voor chani_489
+    21300980: voor chani_490
+    21300982: voor chani_491
+    21300984: voor chani_492
+    21300986: voor chani_493
+    21300988: voor chani_494
+    21300990: voor chani_495
+    21300992: voor chani_496
+    21300994: voor chani_497
+    21300996: voor chani_498
+    21300998: voor chani_499
+    21301000: voor chani_500
+    21301002: voor chani_501
+    21301004: voor chani_502
+    21301006: voor chani_503
+    21301008: voor chani_504
+    21301010: voor chani_505
+    21301012: voor chani_506
+    21301014: voor chani_507
+    21301016: voor chani_508
+    21301018: voor chani_509
+    21301020: voor chani_510
+    21301022: voor chani_511
+    21301024: voor chani_512
+    21301026: voor chani_513
+    21301028: voor chani_514
+    21301030: voor chani_515
+    21301032: voor chani_516
+    21301034: voor chani_517
+    21301036: voor chani_518
+    21301038: voor chani_519
+    21301040: voor chani_520
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: voor chani_0
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3011
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3011
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2973
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2888
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2889
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.30373, y: 23.45044}
+        - {x: -16.30373, y: -22.54956}
+        - {x: 16.69627, y: -22.54956}
+        - {x: 16.69627, y: 20.45044}
+        - {x: 11.69627, y: 23.45044}
+    - name: voor chani_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2889
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.267586, y: 23.95044}
+        - {x: -16.267586, y: 7.9504395}
+        - {x: -16.267586, y: -23.04956}
+        - {x: 17.732414, y: -23.04956}
+        - {x: 17.732414, y: 23.95044}
+    - name: voor chani_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2892
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.731438, y: 23.460205}
+        - {x: -12.731438, y: 18.460205}
+        - {x: -16.731438, y: -4.539795}
+        - {x: -16.731438, y: -22.539795}
+        - {x: 17.268562, y: -22.539795}
+        - {x: 17.268562, y: 23.460205}
+    - name: voor chani_7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2894
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.814529, y: 23.30017}
+        - {x: -14.185471, y: 23.30017}
+        - {x: -16.18547, y: 15.300171}
+        - {x: -16.18547, y: -21.69983}
+        - {x: 17.81453, y: -21.69983}
+        - {x: 17.81453, y: 22.30017}
+        - {x: 16.81453, y: 22.30017}
+    - name: voor chani_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2892
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.139511, y: 23.960205}
+        - {x: -16.139511, y: 14.960205}
+        - {x: -16.139511, y: -23.039795}
+        - {x: 16.860489, y: -23.039795}
+        - {x: 16.860489, y: 23.960205}
+    - name: voor chani_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2892
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2895
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2895
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_12
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2765
+        width: 77
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5006714, y: 44.878174}
+        - {x: -23.500671, y: 33.878174}
+        - {x: -25.500671, y: 29.878174}
+        - {x: -25.500671, y: -44.121826}
+        - {x: 15.499329, y: -44.121826}
+        - {x: 27.499329, y: -36.121826}
+        - {x: 27.499329, y: 33.878174}
+        - {x: 14.499329, y: 44.878174}
+    - name: voor chani_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2761
+        width: 77
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.825974, y: 38.198364}
+        - {x: -25.825974, y: 36.198364}
+        - {x: -25.825974, y: -36.801636}
+        - {x: 25.174026, y: -36.801636}
+        - {x: 26.174026, y: -35.801636}
+        - {x: 26.174026, y: 33.198364}
+        - {x: 7.1740265, y: 38.198364}
+    - name: voor chani_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2870
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2759
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.459259, y: 41.85852}
+        - {x: -25.459259, y: 35.85852}
+        - {x: -25.459259, y: -41.14148}
+        - {x: 16.540741, y: -41.14148}
+        - {x: 26.540741, y: -34.14148}
+        - {x: 26.540741, y: 33.85852}
+        - {x: 13.540741, y: 41.85852}
+    - name: voor chani_16
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2764
+        width: 78
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.2464905, y: 42.708252}
+        - {x: -26.24649, y: 34.708252}
+        - {x: -26.24649, y: -41.291748}
+        - {x: 17.75351, y: -41.291748}
+        - {x: 26.75351, y: -36.291748}
+        - {x: 26.75351, y: 42.708252}
+    - name: voor chani_17
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2765
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.68399, y: 41.878174}
+        - {x: -25.68399, y: 36.878174}
+        - {x: -25.68399, y: -41.121826}
+        - {x: 20.31601, y: -41.121826}
+        - {x: 26.31601, y: -39.121826}
+        - {x: 26.31601, y: 41.878174}
+    - name: voor chani_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2756
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2758
+        width: 48
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.215408, y: 38.1886}
+        - {x: -16.215408, y: -36.8114}
+        - {x: 10.784592, y: -36.8114}
+        - {x: 16.784592, y: -35.8114}
+        - {x: 16.784592, y: 31.188599}
+        - {x: -0.21540833, y: 38.1886}
+    - name: voor chani_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2759
+        width: 63
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.0495605, y: 37.85852}
+        - {x: -20.95044, y: 37.85852}
+        - {x: -20.95044, y: -37.14148}
+        - {x: 14.049561, y: -37.14148}
+        - {x: 22.04956, y: -26.14148}
+        - {x: 22.04956, y: 18.85852}
+        - {x: 21.04956, y: 29.85852}
+    - name: voor chani_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2761
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.322372, y: 34.698364}
+        - {x: -26.322372, y: -33.301636}
+        - {x: 19.677628, y: -33.301636}
+        - {x: 26.677628, y: -24.301636}
+        - {x: 26.677628, y: 31.698364}
+        - {x: 22.677628, y: 34.698364}
+    - name: voor chani_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2588
+        width: 76
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.310436, y: 48.799194}
+        - {x: -25.310436, y: 39.799194}
+        - {x: -25.310436, y: -47.200806}
+        - {x: 20.689564, y: -47.200806}
+        - {x: 26.689564, y: -45.200806}
+        - {x: 26.689564, y: 48.799194}
+    - name: voor chani_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2591
+        width: 76
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.326462, y: 33.80896}
+        - {x: -25.326462, y: -50.19104}
+        - {x: 26.673538, y: -50.19104}
+        - {x: 26.673538, y: 51.80896}
+        - {x: -8.326462, y: 51.80896}
+        - {x: -19.326462, y: 46.80896}
+    - name: voor chani_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2711
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_25
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2725
+        width: 59
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_26
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2725
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2711
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2711
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2711
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2711
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2695
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_32
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2695
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2695
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_34
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2692
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2601
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.270203, y: 34.5083}
+        - {x: -25.270203, y: 32.5083}
+        - {x: -25.270203, y: -33.4917}
+        - {x: 17.729797, y: -33.4917}
+        - {x: 26.729797, y: -22.4917}
+        - {x: 26.729797, y: 30.5083}
+        - {x: 19.729797, y: 34.5083}
+    - name: voor chani_36
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2641
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_37
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2641
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.106323, y: 23.305908}
+        - {x: -11.893677, y: 23.305908}
+        - {x: -16.893677, y: 5.305908}
+        - {x: -16.893677, y: -21.694092}
+        - {x: -15.893677, y: -22.694092}
+        - {x: 14.106323, y: -22.694092}
+        - {x: 17.106323, y: -20.694092}
+        - {x: 17.106323, y: 2.3059082}
+        - {x: 15.106323, y: 12.305908}
+    - name: voor chani_38
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2644
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.687592, y: -21.684326}
+        - {x: 17.312408, y: -21.684326}
+        - {x: 17.312408, y: 10.315674}
+        - {x: 15.312408, y: 22.315674}
+        - {x: -9.687592, y: 22.315674}
+        - {x: -14.687592, y: 21.315674}
+        - {x: -16.687592, y: 3.3156738}
+    - name: voor chani_39
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2644
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.188416, y: 22.315674}
+        - {x: -6.8115845, y: 22.315674}
+        - {x: -12.811584, y: 13.315674}
+        - {x: -16.811584, y: -3.6843262}
+        - {x: -16.811584, y: -21.684326}
+        - {x: 15.188416, y: -21.684326}
+        - {x: 17.188416, y: -20.684326}
+        - {x: 17.188416, y: -2.6843262}
+        - {x: 16.188416, y: 15.315674}
+    - name: voor chani_40
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2641
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.935547, y: 23.305908}
+        - {x: -16.935547, y: 5.305908}
+        - {x: -16.935547, y: -22.694092}
+        - {x: 17.064453, y: -22.694092}
+        - {x: 17.064453, y: 19.305908}
+        - {x: 14.064453, y: 23.305908}
+    - name: voor chani_41
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2641
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_42
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2638
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_43
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2638
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2680
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2680
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2677
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_47
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2664
+        width: 69
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_48
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2664
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_49
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2664
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_50
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2647
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2644
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2647
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_53
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2647
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2629
+        width: 72
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_55
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2632
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2632
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_57
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2600
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_58
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2616
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_59
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2616
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_60
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2547
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_61
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2547
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_62
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2608
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_63
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2597
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_64
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2546
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_65
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2546
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_66
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2592
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_67
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2595
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_68
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2583
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_69
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2580
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_70
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2583
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_71
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2559
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_72
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2576
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_73
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2579
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_74
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2579
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_75
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2550
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2568
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_77
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2568
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_78
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2567
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_79
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2568
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_80
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2562
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_81
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2559
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_82
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2552
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_83
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2535
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2377
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_85
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2401
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_86
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2414
+        width: 29
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_87
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2441
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_88
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2465
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_89
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2468
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_90
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2453
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_91
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2437
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_92
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2422
+        width: 30
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_93
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2411
+        width: 31
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_94
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2394
+        width: 32
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_95
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2380
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_96
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2410
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_97
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2383
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_98
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2385
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2377
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_100
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2377
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_101
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2379
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_102
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2380
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_103
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2380
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_104
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2380
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_105
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2382
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_106
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2383
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_107
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2383
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_108
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2383
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_109
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2359
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_110
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2362
+        width: 72
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_111
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2220
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_112
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2238
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_113
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2250
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_114
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2291
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_115
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2301
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_116
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2271
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_117
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2267
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_118
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2259
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_119
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2250
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_120
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2237
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_121
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2213
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_122
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2204
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_123
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2207
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_124
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2208
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_125
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2210
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_126
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2210
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_127
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2210
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_128
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2211
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_129
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2213
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_130
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2214
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_131
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2213
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_132
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2205
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_133
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2205
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_134
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2186
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_135
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2191
+        width: 55
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_136
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2099
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_137
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2092
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_138
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2083
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_139
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2093
+        width: 37
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_140
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2114
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.901375, y: 3.7486572}
+        - {x: -16.901375, y: -21.251343}
+        - {x: 2.0986252, y: -21.251343}
+        - {x: 18.098625, y: -10.251343}
+        - {x: 18.098625, y: 21.748657}
+        - {x: -11.901375, y: 21.748657}
+    - name: voor chani_141
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2141
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_142
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2134
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.299637, y: 17.147339}
+        - {x: -16.299637, y: -11.852661}
+        - {x: -10.299637, y: -15.852661}
+        - {x: 15.700363, y: -15.852661}
+        - {x: 17.700363, y: -14.852661}
+        - {x: 17.700363, y: 13.147339}
+        - {x: 9.700363, y: 17.147339}
+    - name: voor chani_143
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2141
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_144
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2082
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_145
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2067
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_146
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2050
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_147
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2049
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_148
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2047
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_149
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2047
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_150
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2050
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_151
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2047
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_152
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2049
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_153
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2050
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_154
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2050
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_155
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2050
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_156
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2052
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2053
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2049
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_159
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2019
+        width: 112
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_160
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2022
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_161
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1932
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.1208706, y: 22.819946}
+        - {x: -14.120871, y: 6.8199463}
+        - {x: -16.12087, y: -2.1800537}
+        - {x: -16.12087, y: -22.180054}
+        - {x: 16.87913, y: -22.180054}
+        - {x: 16.87913, y: 22.819946}
+    - name: voor chani_162
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1931
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.904972, y: 23.650024}
+        - {x: -9.904972, y: 22.650024}
+        - {x: -15.904972, y: -6.3499756}
+        - {x: -15.904972, y: -22.349976}
+        - {x: 17.095028, y: -22.349976}
+        - {x: 17.095028, y: 22.650024}
+        - {x: 14.095028, y: 23.650024}
+    - name: voor chani_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1931
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.528946, y: 22.650024}
+        - {x: -12.528946, y: 21.650024}
+        - {x: -16.528946, y: 2.6500244}
+        - {x: -16.528946, y: -21.349976}
+        - {x: 17.471054, y: -21.349976}
+        - {x: 17.471054, y: 9.650024}
+        - {x: 15.471054, y: 22.650024}
+    - name: voor chani_164
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1932
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.856888, y: 22.819946}
+        - {x: -15.143112, y: 22.819946}
+        - {x: -17.143112, y: 12.819946}
+        - {x: -17.143112, y: -22.180054}
+        - {x: 15.856888, y: -22.180054}
+        - {x: 17.856888, y: -20.180054}
+        - {x: 17.856888, y: -0.18005371}
+        - {x: 12.856888, y: 20.819946}
+    - name: voor chani_165
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1932
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.427216, y: 23.319946}
+        - {x: -16.427216, y: 19.319946}
+        - {x: -16.427216, y: -22.680054}
+        - {x: 15.572784, y: -22.680054}
+        - {x: 17.572784, y: -19.680054}
+        - {x: 17.572784, y: 1.3199463}
+        - {x: 12.572784, y: 23.319946}
+    - name: voor chani_166
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1932
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_167
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1935
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_168
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1934
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_169
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1932
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_170
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1932
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_171
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1932
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_172
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1932
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_173
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1973
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_174
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1976
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_175
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1905
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_176
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1893
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_177
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1817
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_178
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1855
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_179
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1850
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_180
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1820
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.886322, y: 26.286865}
+        - {x: 13.886322, y: 26.286865}
+        - {x: 6.886322, y: 21.286865}
+        - {x: -3.113678, y: 11.286865}
+        - {x: 2.886322, y: 18.286865}
+        - {x: 3.886322, y: 20.286865}
+        - {x: -3.113678, y: 24.286865}
+        - {x: -10.113678, y: 21.286865}
+        - {x: -23.113678, y: 6.286865}
+        - {x: -23.113678, y: -8.713135}
+        - {x: -14.113678, y: -25.713135}
+        - {x: 14.886322, y: -25.713135}
+        - {x: 13.886322, y: -20.713135}
+        - {x: 7.886322, y: -17.713135}
+        - {x: 23.886322, y: 12.286865}
+    - name: voor chani_181
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1814
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_182
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1814
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_183
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1811
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_184
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1808
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_185
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1808
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.207214, y: 23.74768}
+        - {x: -16.207214, y: -21.25232}
+        - {x: -12.207214, y: -23.25232}
+        - {x: 16.792786, y: -23.25232}
+        - {x: 16.792786, y: 12.747681}
+        - {x: 9.792786, y: 23.74768}
+    - name: voor chani_186
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1808
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.030579, y: 23.24768}
+        - {x: -16.030579, y: 16.24768}
+        - {x: -16.030579, y: -0.75231934}
+        - {x: -15.030579, y: -0.75231934}
+        - {x: -12.030579, y: 0.24768066}
+        - {x: -16.030579, y: -17.75232}
+        - {x: -16.030579, y: -20.75232}
+        - {x: -12.030579, y: -22.75232}
+        - {x: 16.969421, y: -22.75232}
+        - {x: 16.969421, y: 4.2476807}
+        - {x: 10.969421, y: 23.24768}
+    - name: voor chani_187
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1808
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.806183, y: 14.247681}
+        - {x: 10.806183, y: 14.247681}
+        - {x: 14.806183, y: 17.24768}
+        - {x: 12.806183, y: 23.24768}
+        - {x: -17.193817, y: 23.24768}
+        - {x: -22.193817, y: 18.24768}
+        - {x: -22.193817, y: -10.752319}
+        - {x: -15.193817, y: -22.75232}
+        - {x: 22.806183, y: -22.75232}
+        - {x: 22.806183, y: 13.247681}
+        - {x: 21.806183, y: 14.247681}
+    - name: voor chani_188
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1804
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_189
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1817
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_190
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1817
+        width: 60
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_191
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1786
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_192
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1786
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_193
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1767
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_194
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1767
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_195
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1705
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.859503, y: 19.744019}
+        - {x: -18.140497, y: 19.744019}
+        - {x: -18.140497, y: 7.7440186}
+        - {x: -7.140497, y: -8.255981}
+        - {x: 5.859503, y: -18.255981}
+        - {x: 7.859503, y: -19.255981}
+        - {x: 14.859503, y: -19.255981}
+        - {x: 15.859503, y: -17.255981}
+        - {x: 18.859503, y: -5.2559814}
+        - {x: 18.859503, y: 17.744019}
+    - name: voor chani_196
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1690
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.434414, y: 2.6949463}
+        - {x: -11.434414, y: -22.305054}
+        - {x: -9.434414, y: -24.305054}
+        - {x: 24.565586, y: -24.305054}
+        - {x: 24.565586, y: -4.3050537}
+        - {x: 19.565586, y: 9.694946}
+        - {x: 6.565586, y: 24.694946}
+        - {x: -20.434414, y: 24.694946}
+        - {x: -23.434414, y: 23.694946}
+    - name: voor chani_197
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1690
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.009323, y: 26.194946}
+        - {x: -23.009323, y: 18.194946}
+        - {x: -23.009323, y: -0.8050537}
+        - {x: -17.009323, y: -25.805054}
+        - {x: 23.990677, y: -25.805054}
+        - {x: 23.990677, y: 22.194946}
+        - {x: 15.990677, y: 26.194946}
+    - name: voor chani_198
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1690
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.763977, y: 24.694946}
+        - {x: -21.763977, y: 14.694946}
+        - {x: -21.763977, y: -9.305054}
+        - {x: -12.763977, y: -22.305054}
+        - {x: -9.763977, y: -24.305054}
+        - {x: 23.236023, y: -24.305054}
+        - {x: 23.236023, y: 20.694946}
+        - {x: 17.236023, y: 24.694946}
+    - name: voor chani_199
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1690
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.838898, y: 22.194946}
+        - {x: -16.838898, y: 16.194946}
+        - {x: -16.838898, y: -21.805054}
+        - {x: 18.161102, y: -21.805054}
+        - {x: 18.161102, y: 20.194946}
+        - {x: 14.161102, y: 22.194946}
+    - name: voor chani_200
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1690
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_201
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1686
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_202
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1685
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.916748, y: -12.654785}
+        - {x: 16.916748, y: -13.654785}
+        - {x: 24.916748, y: -13.654785}
+        - {x: 24.916748, y: -0.65478516}
+        - {x: 17.916748, y: 20.345215}
+        - {x: 11.916748, y: 22.345215}
+        - {x: -23.083252, y: 22.345215}
+        - {x: -24.083252, y: 21.345215}
+        - {x: -24.083252, y: -6.654785}
+        - {x: -17.083252, y: -20.654785}
+        - {x: 19.916748, y: -20.654785}
+        - {x: 21.916748, y: -14.654785}
+        - {x: 18.916748, y: -13.654785}
+        - {x: 12.916748, y: -13.654785}
+    - name: voor chani_203
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1684
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.351654, y: -14.324707}
+        - {x: -2.648346, y: -8.324707}
+        - {x: 16.351654, y: -14.324707}
+        - {x: 24.351654, y: -13.324707}
+        - {x: 24.351654, y: 1.675293}
+        - {x: 17.351654, y: 21.675293}
+        - {x: -20.648346, y: 21.675293}
+        - {x: -23.648346, y: 16.675293}
+        - {x: -23.648346, y: -4.324707}
+        - {x: -19.648346, y: -5.324707}
+        - {x: -19.648346, y: -21.324707}
+        - {x: 21.351654, y: -21.324707}
+        - {x: 22.351654, y: -19.324707}
+        - {x: 22.351654, y: -17.324707}
+        - {x: 20.351654, y: -15.324707}
+    - name: voor chani_204
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1685
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.723267, y: 24.345215}
+        - {x: -22.723267, y: 22.345215}
+        - {x: -22.723267, y: -0.65478516}
+        - {x: -20.723267, y: -1.6547852}
+        - {x: -18.723267, y: -22.654785}
+        - {x: 23.276733, y: -22.654785}
+        - {x: 23.276733, y: 15.345215}
+        - {x: 20.276733, y: 24.345215}
+    - name: voor chani_205
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1685
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.28833, y: 24.345215}
+        - {x: -16.28833, y: 17.345215}
+        - {x: -16.28833, y: -22.654785}
+        - {x: 14.71167, y: -22.654785}
+        - {x: 16.71167, y: -17.654785}
+        - {x: 16.71167, y: 19.345215}
+        - {x: 9.71167, y: 24.345215}
+    - name: voor chani_206
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1686
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_207
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1690
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_208
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1650
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_209
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1650
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_210
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1655
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_211
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1655
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_212
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1565
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.111057, y: 25.452759}
+        - {x: -18.111057, y: 24.452759}
+        - {x: -18.111057, y: -21.547241}
+        - {x: -17.111057, y: -24.547241}
+        - {x: 18.888943, y: -24.547241}
+        - {x: 18.888943, y: 13.452759}
+        - {x: 11.888943, y: 25.452759}
+    - name: voor chani_213
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1567
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.7154083, y: 25.792603}
+        - {x: -17.715408, y: 15.792603}
+        - {x: -17.715408, y: -24.207397}
+        - {x: 18.284592, y: -24.207397}
+        - {x: 18.284592, y: 17.792603}
+        - {x: 15.284592, y: 25.792603}
+    - name: voor chani_214
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1568
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.319756, y: 23.962524}
+        - {x: -22.319756, y: 19.962524}
+        - {x: -22.319756, y: -23.037476}
+        - {x: 18.680244, y: -23.037476}
+        - {x: 22.680244, y: -17.037476}
+        - {x: 22.680244, y: 23.962524}
+    - name: voor chani_215
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1565
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.0646057, y: 24.452759}
+        - {x: -20.064606, y: 17.452759}
+        - {x: -20.064606, y: -23.547241}
+        - {x: 20.935394, y: -23.547241}
+        - {x: 20.935394, y: 24.452759}
+    - name: voor chani_216
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1565
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.139511, y: 24.952759}
+        - {x: -18.139511, y: 16.952759}
+        - {x: -18.139511, y: -24.047241}
+        - {x: 18.860489, y: -24.047241}
+        - {x: 18.860489, y: 20.952759}
+        - {x: 11.860489, y: 24.952759}
+    - name: voor chani_217
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1564
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_218
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1565
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_219
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1564
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_220
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1562
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.697418, y: 27.942871}
+        - {x: -18.697418, y: -27.057129}
+        - {x: 19.302582, y: -27.057129}
+        - {x: 19.302582, y: 19.942871}
+        - {x: 11.302582, y: 27.942871}
+    - name: voor chani_221
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1580
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.1884155, y: 24.001831}
+        - {x: -17.811584, y: 24.001831}
+        - {x: -17.811584, y: -22.998169}
+        - {x: 17.188416, y: -22.998169}
+        - {x: 18.188416, y: -18.998169}
+        - {x: 18.188416, y: 18.001831}
+        - {x: 12.188416, y: 20.001831}
+    - name: voor chani_222
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1580
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.415924, y: 24.501831}
+        - {x: -20.415924, y: 4.501831}
+        - {x: -18.415924, y: 3.501831}
+        - {x: -20.415924, y: -0.49816895}
+        - {x: -20.415924, y: -23.498169}
+        - {x: 20.584076, y: -23.498169}
+        - {x: 20.584076, y: 1.501831}
+        - {x: 3.584076, y: 24.501831}
+    - name: voor chani_223
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1579
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.869995, y: 25.33191}
+        - {x: -21.869995, y: -23.66809}
+        - {x: -0.8699951, y: -23.66809}
+        - {x: 21.130005, y: -2.6680908}
+        - {x: 23.130005, y: 3.3319092}
+        - {x: 23.130005, y: 25.33191}
+    - name: voor chani_224
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1559
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_225
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1562
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_226
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1562
+        width: 53
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_227
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1562
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_228
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1505
+        width: 83
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_229
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1546
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_230
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1546
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_231
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1513
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_232
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1478
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_233
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1546
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_234
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1546
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_235
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1546
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_236
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1546
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_237
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1462
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_238
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1490
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_239
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1496
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_240
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1495
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_241
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1450
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.867676, y: 18.909851}
+        - {x: -17.132324, y: 18.909851}
+        - {x: -17.132324, y: 5.909851}
+        - {x: -7.132324, y: -18.090149}
+        - {x: 17.867676, y: -18.090149}
+        - {x: 17.867676, y: 2.909851}
+        - {x: 12.867676, y: 16.909851}
+    - name: voor chani_242
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1462
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.455688, y: 18.949158}
+        - {x: -17.455688, y: 1.9491577}
+        - {x: -11.455688, y: -18.050842}
+        - {x: 13.544312, y: -18.050842}
+        - {x: 18.544312, y: -14.050842}
+        - {x: 18.544312, y: 2.9491577}
+        - {x: 6.5443115, y: 18.949158}
+    - name: voor chani_243
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1448
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.92035, y: -25.429993}
+        - {x: 23.92035, y: -29.429993}
+        - {x: 27.92035, y: -29.429993}
+        - {x: 27.92035, y: -25.429993}
+        - {x: 26.92035, y: -24.429993}
+      - - {x: -27.07965, y: 29.570007}
+        - {x: -27.07965, y: -4.4299927}
+        - {x: -12.079651, y: -17.429993}
+        - {x: 19.92035, y: -21.429993}
+        - {x: 27.92035, y: -21.429993}
+        - {x: 27.92035, y: -7.4299927}
+        - {x: 6.920349, y: 29.570007}
+    - name: voor chani_244
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1471
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.314697, y: -8.021423}
+        - {x: 6.6853027, y: -24.021423}
+        - {x: 28.685303, y: -24.021423}
+        - {x: 28.685303, y: -9.021423}
+        - {x: 16.685303, y: 24.978577}
+        - {x: -19.314697, y: 24.978577}
+        - {x: -27.314697, y: 23.978577}
+      - - {x: 25.685303, y: 0.97857666}
+        - {x: 27.685303, y: -1.0214233}
+        - {x: 28.685303, y: -1.0214233}
+        - {x: 28.685303, y: 5.9785767}
+        - {x: 25.685303, y: 4.9785767}
+      - - {x: 25.685303, y: 19.978577}
+        - {x: 27.685303, y: 17.978577}
+        - {x: 28.685303, y: 17.978577}
+        - {x: 28.685303, y: 22.978577}
+        - {x: 26.685303, y: 22.978577}
+    - name: voor chani_245
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1473
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.719666, y: -24.181519}
+        - {x: -24.719666, y: -24.181519}
+        - {x: -24.719666, y: -21.181519}
+        - {x: -26.719666, y: -19.181519}
+        - {x: -27.719666, y: -19.181519}
+      - - {x: -18.719666, y: 25.818481}
+        - {x: -27.719666, y: 21.818481}
+        - {x: -27.719666, y: -9.181519}
+        - {x: 1.2803345, y: -24.181519}
+        - {x: 28.280334, y: -24.181519}
+        - {x: 28.280334, y: -10.181519}
+        - {x: 14.280334, y: 14.818481}
+        - {x: 1.2803345, y: 25.818481}
+    - name: voor chani_246
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1464
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_247
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1420
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_248
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1420
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_249
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1422
+        width: 53
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_250
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1423
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_251
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1423
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_252
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1422
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_253
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1422
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_254
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1404
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_255
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1338
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.780502, y: 26.876831}
+        - {x: -20.780502, y: -23.123169}
+        - {x: -8.780502, y: -26.123169}
+        - {x: 17.219498, y: -26.123169}
+        - {x: 21.219498, y: 6.876831}
+        - {x: 21.219498, y: 26.876831}
+    - name: voor chani_256
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1346
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.054794, y: 23.736328}
+        - {x: -16.054794, y: 9.736328}
+        - {x: -16.054794, y: -12.263672}
+        - {x: -3.0547943, y: -22.263672}
+        - {x: 16.945206, y: -22.263672}
+        - {x: 16.945206, y: 5.736328}
+        - {x: -0.05479431, y: 23.736328}
+    - name: voor chani_257
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1338
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.821228, y: 23.876831}
+        - {x: 13.821228, y: 24.876831}
+        - {x: -16.178772, y: 24.876831}
+        - {x: -16.178772, y: -1.123169}
+        - {x: -11.178772, y: -24.123169}
+        - {x: 16.821228, y: -24.123169}
+    - name: voor chani_258
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1405
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_259
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1402
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_260
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1402
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_261
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1402
+        width: 52
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_262
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1399
+        width: 52
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_263
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1395
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_264
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1320
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.898758, y: 18.317932}
+        - {x: 4.898758, y: 17.317932}
+        - {x: 4.898758, y: 18.317932}
+        - {x: -18.101242, y: 18.317932}
+        - {x: -21.101242, y: 9.317932}
+        - {x: -21.101242, y: -11.682068}
+        - {x: -17.101242, y: -13.682068}
+        - {x: -7.101242, y: -17.682068}
+        - {x: 21.898758, y: -17.682068}
+        - {x: 21.898758, y: 17.317932}
+        - {x: 19.898758, y: 18.317932}
+    - name: voor chani_265
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1329
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_266
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1367
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_267
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1367
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_268
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1367
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_269
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1301
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_270
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1248
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_271
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1262
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_272
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1271
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.802246, y: 25.991028}
+        - {x: -19.802246, y: -25.008972}
+        - {x: 1.1977539, y: -25.008972}
+        - {x: 15.197754, y: -19.008972}
+        - {x: 21.197754, y: -7.008972}
+        - {x: 21.197754, y: 15.991028}
+        - {x: 19.197754, y: 25.991028}
+    - name: voor chani_273
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1279
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.936035, y: 26.350525}
+        - {x: -19.936035, y: -6.649475}
+        - {x: -15.936035, y: -24.649475}
+        - {x: 1.0639648, y: -24.649475}
+        - {x: 21.063965, y: -11.649475}
+        - {x: 21.063965, y: 12.350525}
+        - {x: 20.063965, y: 21.350525}
+        - {x: 11.063965, y: 26.350525}
+      - - {x: 17.063965, y: 24.350525}
+        - {x: 17.063965, y: 21.350525}
+        - {x: 19.063965, y: 19.350525}
+        - {x: 21.063965, y: 20.350525}
+        - {x: 21.063965, y: 24.350525}
+        - {x: 20.063965, y: 25.350525}
+    - name: voor chani_274
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1286
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.370453, y: 26.0401}
+        - {x: -20.370453, y: -24.9599}
+        - {x: 2.629547, y: -24.9599}
+        - {x: 20.629547, y: -10.9599}
+        - {x: 20.629547, y: 22.0401}
+        - {x: 18.629547, y: 26.0401}
+    - name: voor chani_275
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1269
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_276
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1267
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_277
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1265
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_278
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1267
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_279
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1265
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_280
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1241
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_281
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1241
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_282
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1241
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_283
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1190
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.76545715, y: 21.726013}
+        - {x: -10.234543, y: 17.726013}
+        - {x: -25.234543, y: 10.726013}
+        - {x: -25.234543, y: 2.7260132}
+        - {x: -23.234543, y: -0.27398682}
+        - {x: -18.234543, y: 0.7260132}
+        - {x: -17.234543, y: -8.273987}
+        - {x: -13.234543, y: -20.273987}
+        - {x: -12.234543, y: -21.273987}
+        - {x: -0.23454285, y: -21.273987}
+        - {x: 26.765457, y: 4.726013}
+        - {x: 26.765457, y: 17.726013}
+        - {x: 24.765457, y: 21.726013}
+    - name: voor chani_284
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1187
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_285
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1177
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.349197, y: -9.983154}
+        - {x: -17.349197, y: -20.983154}
+        - {x: -4.3491974, y: -20.983154}
+        - {x: -2.3491974, y: -18.983154}
+        - {x: 25.650803, y: 6.0168457}
+        - {x: 25.650803, y: 22.016846}
+        - {x: -17.349197, y: 22.016846}
+        - {x: -25.349197, y: 21.016846}
+    - name: voor chani_286
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1225
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_287
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1225
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_288
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1226
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_289
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1225
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_290
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1226
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_291
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1228
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_292
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1144
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.071802, y: 20.908875}
+        - {x: -12.071802, y: 18.908875}
+        - {x: -18.071802, y: 14.9088745}
+        - {x: -18.071802, y: -20.091125}
+        - {x: 11.928198, y: -20.091125}
+        - {x: 17.928198, y: -18.091125}
+        - {x: 18.928198, y: -17.091125}
+        - {x: 18.928198, y: 2.9088745}
+        - {x: 14.928198, y: 20.908875}
+    - name: voor chani_293
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1156
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_294
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1187
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_295
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1187
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_296
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1119
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_297
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1120
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_298
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1123
+        width: 100
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_299
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1128
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_300
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1132
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_301
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1135
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_302
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1113
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_303
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1114
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_304
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1120
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_305
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1116
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_306
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1111
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_307
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1083
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_308
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1083
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_309
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1017
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_310
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1022
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_311
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1023
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_312
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1020
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.855408, y: 19.836609}
+        - {x: -21.855408, y: -5.163391}
+        - {x: -21.855408, y: -19.163391}
+        - {x: 20.144592, y: -19.163391}
+        - {x: 22.144592, y: -8.163391}
+        - {x: 22.144592, y: 19.836609}
+    - name: voor chani_313
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1020
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.070816, y: 19.336609}
+        - {x: -16.070816, y: 3.336609}
+        - {x: -12.070816, y: -1.6633911}
+        - {x: -9.070816, y: -1.6633911}
+        - {x: -4.070816, y: 0.3366089}
+        - {x: -13.070816, y: -3.663391}
+        - {x: -19.070816, y: -7.663391}
+        - {x: -22.070816, y: -11.663391}
+        - {x: -22.070816, y: -18.663391}
+        - {x: 17.929184, y: -18.663391}
+        - {x: 22.929184, y: 4.336609}
+        - {x: 22.929184, y: 19.336609}
+    - name: voor chani_314
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1011
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.864075, y: 20.80719}
+        - {x: -9.135925, y: 20.80719}
+        - {x: -15.135925, y: 9.80719}
+        - {x: -13.135925, y: 1.80719}
+        - {x: -11.135925, y: -0.19281006}
+        - {x: -18.135925, y: -4.19281}
+        - {x: -22.135925, y: -9.19281}
+        - {x: -22.135925, y: -18.19281}
+        - {x: -17.135925, y: -17.19281}
+        - {x: -13.135925, y: -13.19281}
+        - {x: -11.135925, y: -13.19281}
+        - {x: -3.1359253, y: -11.19281}
+        - {x: -6.1359253, y: -12.19281}
+        - {x: -7.1359253, y: -13.19281}
+        - {x: -12.135925, y: -13.19281}
+        - {x: -14.135925, y: -15.19281}
+        - {x: -15.135925, y: -18.19281}
+        - {x: -12.135925, y: -20.19281}
+        - {x: 19.864075, y: -20.19281}
+        - {x: 22.864075, y: -11.19281}
+        - {x: 22.864075, y: 18.80719}
+        - {x: 21.864075, y: 19.80719}
+    - name: voor chani_315
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1014
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.789185, y: 16.316956}
+        - {x: 22.789185, y: 18.316956}
+        - {x: 17.789185, y: 19.316956}
+        - {x: -4.2108154, y: 19.316956}
+        - {x: -12.210815, y: 2.3169556}
+        - {x: -11.210815, y: -1.6830444}
+        - {x: -4.2108154, y: -0.68304443}
+        - {x: -9.210815, y: -1.6830444}
+        - {x: -21.210815, y: -8.683044}
+        - {x: -23.210815, y: -11.683044}
+        - {x: -23.210815, y: -18.683044}
+        - {x: 15.789185, y: -18.683044}
+        - {x: 18.789185, y: -15.683044}
+        - {x: 18.789185, y: -14.683044}
+        - {x: 23.789185, y: 0.31695557}
+    - name: voor chani_316
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1026
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_317
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1008
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_318
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1013
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_319
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1014
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_320
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1011
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_321
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1014
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_322
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1011
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_323
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 989
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_324
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 989
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_325
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 990
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_326
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 990
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_327
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 990
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_328
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 919
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_329
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 923
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_330
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 926
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.780502, y: 18.362427}
+        - {x: -22.780502, y: 10.362427}
+        - {x: -22.780502, y: 0.36242676}
+        - {x: -18.780502, y: 1.3624268}
+        - {x: -19.780502, y: 0.36242676}
+        - {x: -22.780502, y: -16.637573}
+        - {x: -21.780502, y: -17.637573}
+        - {x: 19.219498, y: -17.637573}
+        - {x: 23.219498, y: -6.6375732}
+        - {x: 23.219498, y: 15.362427}
+        - {x: 14.219498, y: 18.362427}
+    - name: voor chani_331
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 923
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_332
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 926
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_333
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 929
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.710663, y: -1.1277466}
+        - {x: 29.710663, y: 10.872253}
+        - {x: 17.710663, y: 16.872253}
+        - {x: -23.289337, y: 16.872253}
+        - {x: -25.289337, y: 15.872253}
+        - {x: -29.289337, y: 8.872253}
+        - {x: -29.289337, y: -8.127747}
+        - {x: -24.289337, y: -12.127747}
+        - {x: -21.289337, y: -11.127747}
+        - {x: -21.289337, y: -8.127747}
+        - {x: -21.289337, y: -14.127747}
+        - {x: -18.289337, y: -16.127747}
+        - {x: 21.710663, y: -16.127747}
+        - {x: 23.710663, y: -14.127747}
+        - {x: 21.710663, y: -8.127747}
+        - {x: 26.710663, y: -5.1277466}
+    - name: voor chani_334
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 926
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.955688, y: 16.862427}
+        - {x: -19.955688, y: -13.137573}
+        - {x: -15.955688, y: -13.137573}
+        - {x: -13.955688, y: -11.137573}
+        - {x: -14.955688, y: -13.137573}
+        - {x: -14.955688, y: -14.137573}
+        - {x: -13.955688, y: -16.137573}
+        - {x: 21.044312, y: -16.137573}
+        - {x: 21.044312, y: 14.862427}
+        - {x: 13.044312, y: 16.862427}
+    - name: voor chani_335
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 929
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.0502014, y: 16.872253}
+        - {x: -13.050201, y: 13.872253}
+        - {x: -17.050201, y: 2.8722534}
+        - {x: -17.050201, y: -7.1277466}
+        - {x: -14.050201, y: -6.1277466}
+        - {x: -14.050201, y: -14.127747}
+        - {x: -11.050201, y: -16.127747}
+        - {x: 17.949799, y: -16.127747}
+        - {x: 17.949799, y: 16.872253}
+    - name: voor chani_336
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 928
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_337
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 905
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_338
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 905
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_339
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 905
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_340
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 831
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_341
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 841
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_342
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 829
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_343
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 892
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_344
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 892
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_345
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 892
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_346
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 834
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_347
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 828
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_348
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 831
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_349
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 834
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_350
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 837
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_351
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 838
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_352
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 835
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_353
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 837
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_354
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 834
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_355
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 834
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_356
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 831
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_357
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 828
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_358
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 808
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_359
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 804
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_360
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 699
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_361
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 710
+        width: 38
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_362
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 714
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_363
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 716
+        width: 39
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_364
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 701
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_365
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 774
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_366
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 774
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_367
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 758
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_368
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 726
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_369
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 723
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_370
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 723
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_371
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 758
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_372
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 758
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_373
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 741
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_374
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 741
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_375
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 741
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_376
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 738
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_377
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 699
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_378
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 699
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_379
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 701
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_380
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 669
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_381
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 669
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_382
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 668
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_383
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 666
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_384
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 666
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_385
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 613
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_386
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 620
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_387
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 613
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.332672, y: 18.171906}
+        - {x: -16.332672, y: 2.1719055}
+        - {x: -13.332672, y: -9.8280945}
+        - {x: -3.332672, y: -16.828094}
+        - {x: 14.667328, y: -16.828094}
+        - {x: 17.667328, y: -10.8280945}
+        - {x: 17.667328, y: 17.171906}
+        - {x: 16.667328, y: 18.171906}
+    - name: voor chani_388
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 608
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.713287, y: 17.822205}
+        - {x: -10.286713, y: 17.822205}
+        - {x: -16.286713, y: 15.822205}
+        - {x: -16.286713, y: 2.8222046}
+        - {x: -14.286713, y: -5.1777954}
+        - {x: -2.2867126, y: -17.177795}
+        - {x: 9.713287, y: -17.177795}
+        - {x: 15.713287, y: -15.177795}
+        - {x: 16.713287, y: -7.1777954}
+        - {x: 16.713287, y: 14.822205}
+        - {x: 15.713287, y: 16.822205}
+    - name: voor chani_389
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 580
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.080627, y: 19.563965}
+        - {x: -18.080627, y: 2.5639648}
+        - {x: -14.080627, y: -17.436035}
+        - {x: -12.080627, y: -18.436035}
+        - {x: 18.919373, y: -18.436035}
+        - {x: 18.919373, y: 4.563965}
+        - {x: 16.919373, y: 19.563965}
+    - name: voor chani_390
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 580
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.66159, y: 19.563965}
+        - {x: 8.661591, y: 21.563965}
+        - {x: -3.3384094, y: 21.563965}
+        - {x: -20.33841, y: -0.43603516}
+        - {x: -21.33841, y: -3.4360352}
+        - {x: -21.33841, y: -20.436035}
+        - {x: 14.661591, y: -20.436035}
+        - {x: 16.66159, y: -15.436035}
+        - {x: 21.66159, y: -1.4360352}
+        - {x: 21.66159, y: 20.563965}
+    - name: voor chani_391
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 581
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_392
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 581
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_393
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 580
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_394
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 577
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_395
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 569
+        width: 76
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_396
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 569
+        width: 76
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_397
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 571
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.28833, y: 17.034515}
+        - {x: -22.28833, y: -15.965485}
+        - {x: 22.71167, y: -15.965485}
+        - {x: 22.71167, y: 7.0345154}
+        - {x: 13.71167, y: 17.034515}
+    - name: voor chani_398
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 569
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_399
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 484
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.503109, y: 28.249908}
+        - {x: -17.503109, y: 21.249908}
+        - {x: -17.503109, y: -27.750092}
+        - {x: 18.496891, y: -27.750092}
+        - {x: 18.496891, y: 26.249908}
+        - {x: 17.496891, y: 28.249908}
+    - name: voor chani_400
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 508
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.872917, y: 19.82843}
+        - {x: -20.127083, y: 19.82843}
+        - {x: -20.127083, y: -13.17157}
+        - {x: -19.127083, y: -18.17157}
+        - {x: -12.127083, y: -19.17157}
+        - {x: 20.872917, y: -19.17157}
+        - {x: 20.872917, y: 3.8284302}
+    - name: voor chani_401
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 486
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_402
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 481
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_403
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 547
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_404
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 547
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_405
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 484
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_406
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 477
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.214417, y: 19.060364}
+        - {x: -18.214417, y: -15.939636}
+        - {x: -17.214417, y: -17.939636}
+        - {x: 18.785583, y: -17.939636}
+        - {x: 18.785583, y: 13.060364}
+        - {x: 14.7855835, y: 19.060364}
+    - name: voor chani_407
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 478
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.018158, y: 19.730286}
+        - {x: -20.018158, y: -6.2697144}
+        - {x: -11.018158, y: -18.269714}
+        - {x: -9.018158, y: -19.269714}
+        - {x: 19.981842, y: -19.269714}
+        - {x: 20.981842, y: -18.269714}
+        - {x: 20.981842, y: 5.7302856}
+        - {x: 15.981842, y: 19.730286}
+    - name: voor chani_408
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 475
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_409
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 475
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_410
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 458
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_411
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 458
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_412
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 453
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_413
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 458
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_414
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 458
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_415
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 453
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_416
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 453
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_417
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 458
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_418
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 458
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_419
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 441
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_420
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 441
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_421
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 441
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_422
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 441
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_423
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 441
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_424
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 441
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_425
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 438
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_426
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 441
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_427
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 408
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_428
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 408
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_429
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 326
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.522736, y: 25.899734}
+        - {x: -16.522736, y: -25.100266}
+        - {x: 17.477264, y: -25.100266}
+        - {x: 17.477264, y: 6.8997345}
+        - {x: 8.477264, y: 25.899734}
+    - name: voor chani_430
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 325
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.166336, y: 28.729797}
+        - {x: -17.166336, y: 25.729797}
+        - {x: -17.166336, y: -19.270203}
+        - {x: -16.166336, y: -27.270203}
+        - {x: 17.833664, y: -27.270203}
+        - {x: 17.833664, y: 19.729797}
+        - {x: 6.833664, y: 28.729797}
+    - name: voor chani_431
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 325
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.790314, y: 24.729797}
+        - {x: -17.790314, y: -23.270203}
+        - {x: 18.209686, y: -23.270203}
+        - {x: 18.209686, y: 23.729797}
+        - {x: 11.209686, y: 24.729797}
+    - name: voor chani_432
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 329
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_433
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 326
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.124954, y: 13.8997345}
+        - {x: 4.124954, y: 27.899734}
+        - {x: -9.875046, y: 27.899734}
+        - {x: -17.875046, y: 20.899734}
+        - {x: -19.875046, y: 18.899734}
+        - {x: -19.875046, y: -27.100266}
+        - {x: 19.124954, y: -27.100266}
+        - {x: 20.124954, y: -26.100266}
+        - {x: 20.124954, y: -15.1002655}
+        - {x: 17.124954, y: -10.1002655}
+    - name: voor chani_434
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 329
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_435
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 325
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_436
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 323
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_437
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 323
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_438
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 325
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_439
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 296
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_440
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 296
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_441
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 296
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_442
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 299
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_443
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 299
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_444
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 299
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_445
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 299
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_446
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 299
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_447
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 299
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_448
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 299
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_449
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 259
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.32858276, y: 17.0139}
+        - {x: -13.328583, y: 8.013901}
+        - {x: -19.328583, y: -3.9860992}
+        - {x: -19.328583, y: -15.986099}
+        - {x: -15.328583, y: -15.986099}
+        - {x: 19.671417, y: 11.013901}
+        - {x: 19.671417, y: 17.0139}
+      - - {x: -5.328583, y: 3.0139008}
+        - {x: -5.328583, y: -15.986099}
+        - {x: 19.671417, y: -15.986099}
+        - {x: 19.671417, y: 1.0139008}
+        - {x: 18.671417, y: 3.0139008}
+    - name: voor chani_450
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 301
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_451
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 281
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_452
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 259
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_453
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 302
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_454
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 281
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_455
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 261
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.3258057, y: 17.853775}
+        - {x: -2.6741943, y: 14.853775}
+        - {x: -11.674194, y: 5.853775}
+        - {x: -16.674194, y: 1.853775}
+        - {x: -19.674194, y: -7.146225}
+        - {x: -19.674194, y: -16.146225}
+        - {x: -11.674194, y: -16.146225}
+        - {x: 20.325806, y: 11.853775}
+        - {x: 20.325806, y: 17.853775}
+      - - {x: 6.3258057, y: 2.853775}
+        - {x: 0.32580566, y: 2.853775}
+        - {x: -2.6741943, y: -1.146225}
+        - {x: -5.6741943, y: -14.146225}
+        - {x: -5.6741943, y: -16.146225}
+        - {x: 20.325806, y: -16.146225}
+        - {x: 20.325806, y: -0.14622498}
+        - {x: 18.325806, y: 1.853775}
+    - name: voor chani_456
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 284
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_457
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 211
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.581615, y: 23.856888}
+        - {x: -17.581615, y: 14.856888}
+        - {x: -17.581615, y: -23.143112}
+        - {x: 18.418385, y: -23.143112}
+        - {x: 18.418385, y: 20.856888}
+        - {x: 17.418385, y: 23.856888}
+    - name: voor chani_458
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 213
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.855904, y: 24.196762}
+        - {x: -17.855904, y: -22.803238}
+        - {x: 19.144096, y: -22.803238}
+        - {x: 19.144096, y: 18.196762}
+        - {x: 6.1440964, y: 24.196762}
+    - name: voor chani_459
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 211
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.9602585, y: 24.856888}
+        - {x: -19.960258, y: 10.856888}
+        - {x: -19.960258, y: -24.143112}
+        - {x: 21.039742, y: -24.143112}
+        - {x: 21.039742, y: 16.856888}
+        - {x: 17.039742, y: 24.856888}
+    - name: voor chani_460
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 210
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.875046, y: 26.18695}
+        - {x: -16.875046, y: 11.186951}
+        - {x: -14.875046, y: 6.1869507}
+        - {x: -17.875046, y: -4.8130493}
+        - {x: -17.875046, y: -23.81305}
+        - {x: -16.875046, y: -24.81305}
+        - {x: 13.124954, y: -24.81305}
+        - {x: 18.124954, y: -16.81305}
+        - {x: 18.124954, y: 21.18695}
+        - {x: 15.124954, y: 26.18695}
+    - name: voor chani_461
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 204
+        width: 128
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.178772, y: -24.332672}
+        - {x: -25.178772, y: -27.332672}
+        - {x: -16.178772, y: -27.332672}
+        - {x: -15.178772, y: -26.332672}
+        - {x: -16.178772, y: -23.332672}
+        - {x: -24.178772, y: -22.332672}
+      - - {x: 43.821228, y: -18.332672}
+        - {x: 43.821228, y: 2.667328}
+        - {x: 28.821228, y: 28.667328}
+        - {x: 17.821228, y: 28.667328}
+        - {x: 17.821228, y: 27.667328}
+        - {x: 24.821228, y: 19.667328}
+        - {x: 27.821228, y: 14.667328}
+        - {x: 23.821228, y: 20.667328}
+        - {x: 15.821228, y: 28.667328}
+        - {x: -22.178772, y: 28.667328}
+        - {x: -43.178772, y: -4.332672}
+        - {x: -43.178772, y: -23.332672}
+        - {x: -42.178772, y: -25.332672}
+        - {x: -17.178772, y: -27.332672}
+        - {x: 17.821228, y: -27.332672}
+        - {x: 18.821228, y: -25.332672}
+        - {x: 22.821228, y: -27.332672}
+        - {x: 37.821228, y: -27.332672}
+      - - {x: -32.178772, y: -21.332672}
+        - {x: -34.178772, y: -23.332672}
+        - {x: -34.178772, y: -24.332672}
+        - {x: -30.178772, y: -27.332672}
+        - {x: -27.178772, y: -27.332672}
+        - {x: -26.178772, y: -25.332672}
+        - {x: -26.178772, y: -22.332672}
+        - {x: -28.178772, y: -21.332672}
+    - name: voor chani_462
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 241
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_463
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 256
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_464
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 201
+        width: 126
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.397278, y: 29.157501}
+        - {x: -42.397278, y: 18.157501}
+        - {x: -42.397278, y: -27.842499}
+        - {x: 29.602722, y: -27.842499}
+        - {x: 37.602722, y: -23.842499}
+        - {x: 42.602722, y: -14.842499}
+        - {x: 42.602722, y: 10.157501}
+        - {x: 36.602722, y: 29.157501}
+      - - {x: -19.397278, y: -19.842499}
+        - {x: -24.397278, y: -19.842499}
+        - {x: -24.397278, y: -24.842499}
+        - {x: -22.397278, y: -25.842499}
+        - {x: -20.397278, y: -25.842499}
+        - {x: -18.397278, y: -23.842499}
+        - {x: -18.397278, y: -20.842499}
+      - - {x: -27.397278, y: 29.157501}
+        - {x: -29.397278, y: 21.157501}
+        - {x: -29.397278, y: 10.157501}
+        - {x: -27.397278, y: 10.157501}
+        - {x: -24.397278, y: 11.157501}
+        - {x: -23.397278, y: 15.157501}
+        - {x: -19.397278, y: 25.157501}
+        - {x: -19.397278, y: 29.157501}
+    - name: voor chani_465
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 201
+        width: 117
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.295563, y: 29.157501}
+        - {x: -15.295563, y: 12.157501}
+        - {x: -14.295563, y: 5.157501}
+        - {x: -23.295563, y: 7.157501}
+        - {x: -29.295563, y: 5.157501}
+        - {x: -39.295563, y: -8.842499}
+        - {x: -39.295563, y: -14.842499}
+        - {x: -27.295563, y: -27.842499}
+        - {x: 23.704437, y: -27.842499}
+        - {x: 39.704437, y: -19.842499}
+        - {x: 39.704437, y: 22.157501}
+        - {x: 35.704437, y: 29.157501}
+      - - {x: -34.295563, y: -19.842499}
+        - {x: -34.295563, y: -21.842499}
+        - {x: -32.295563, y: -23.842499}
+        - {x: -27.295563, y: -23.842499}
+        - {x: -25.295563, y: -21.842499}
+        - {x: -26.295563, y: -18.842499}
+        - {x: -32.295563, y: -17.842499}
+      - - {x: -28.295563, y: 16.157501}
+        - {x: -28.295563, y: 10.157501}
+        - {x: -23.295563, y: 10.157501}
+        - {x: -17.295563, y: 28.157501}
+        - {x: -18.295563, y: 29.157501}
+        - {x: -21.295563, y: 29.157501}
+        - {x: -24.295563, y: 27.157501}
+    - name: voor chani_466
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 202
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.655884, y: -20.172562}
+        - {x: 17.655884, y: -21.172562}
+        - {x: 21.655884, y: -19.172562}
+        - {x: 27.655884, y: -15.172562}
+        - {x: 27.655884, y: 9.827438}
+        - {x: 22.655884, y: 28.827438}
+        - {x: -7.344116, y: 28.827438}
+        - {x: -13.344116, y: 11.827438}
+        - {x: -11.344116, y: 4.8274384}
+        - {x: -21.344116, y: 8.827438}
+        - {x: -26.344116, y: 6.8274384}
+        - {x: -26.344116, y: -17.172562}
+        - {x: -7.344116, y: -28.172562}
+        - {x: 20.655884, y: -28.172562}
+        - {x: 27.655884, y: -25.172562}
+        - {x: 27.655884, y: -16.172562}
+        - {x: 23.655884, y: -17.172562}
+      - - {x: -21.344116, y: 28.827438}
+        - {x: -24.344116, y: 21.827438}
+        - {x: -26.344116, y: 14.827438}
+        - {x: -26.344116, y: 10.827438}
+        - {x: -25.344116, y: 9.827438}
+        - {x: -20.344116, y: 9.827438}
+        - {x: -15.344116, y: 24.827438}
+        - {x: -15.344116, y: 28.827438}
+    - name: voor chani_467
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 249
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_468
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 229
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_469
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 217
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_470
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 213
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_471
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 205
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_472
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 204
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_473
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 83
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.581615, y: 26.104843}
+        - {x: -41.581615, y: 25.104843}
+        - {x: -41.581615, y: -18.895157}
+        - {x: -33.581615, y: -24.895157}
+        - {x: 42.418385, y: -24.895157}
+        - {x: 42.418385, y: 26.104843}
+    - name: voor chani_474
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 10
+        width: 66
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9602585, y: 55.19938}
+        - {x: -21.960258, y: 48.19938}
+        - {x: -21.960258, y: -53.80062}
+        - {x: 23.039742, y: -53.80062}
+        - {x: 23.039742, y: 55.19938}
+    - name: voor chani_475
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 119
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_476
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 122
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_477
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 119
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_478
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 122
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_479
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 122
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_480
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 105
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_481
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 105
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_482
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 102
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_483
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 105
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_484
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_485
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 105
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_486
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 105
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_487
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 105
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_488
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 87
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_489
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 74
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_490
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 72
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_491
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 74
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_492
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 74
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_493
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 74
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_494
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 74
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_495
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 74
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_496
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 74
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_497
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 43
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_498
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 44
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_499
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 46
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_500
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 57
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_501
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 41
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_502
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 57
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_503
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 57
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_504
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 54
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_505
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 57
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_506
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 26
+        width: 78
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_507
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 41
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_508
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 38
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_509
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 41
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_510
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 41
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_511
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 41
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_512
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 41
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_513
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 26
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_514
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 26
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_515
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 23
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_516
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 26
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_517
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 26
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_518
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 7
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_519
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 7
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: voor chani_520
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 7
+        width: 110
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

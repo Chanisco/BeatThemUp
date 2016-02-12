@@ -5,8 +5,8 @@ using Arena;
 
 public class PlayerBase : MonoBehaviour
 {
-    [SerializeField]
-    public List<FoundObject> Intuition = new List<FoundObject>();
+    [SerializeField] public List<FoundObject> Intuition = new List<FoundObject>();
+    [SerializeField] private float lifePoints = 100;
 
     enum PositionAgainstPlayer
     {
@@ -14,8 +14,7 @@ public class PlayerBase : MonoBehaviour
         RightOpponent
     }
 
-    [SerializeField]
-    private KeyCode Jump = KeyCode.W;
+    [SerializeField] private KeyCode Jump = KeyCode.W;
     [SerializeField]
     private KeyCode Left = KeyCode.A;
     [SerializeField]
@@ -39,6 +38,7 @@ public class PlayerBase : MonoBehaviour
 
     public virtual void Init()
     {
+
 
     }
 
@@ -72,7 +72,6 @@ public class PlayerBase : MonoBehaviour
 
     public void LoseObject(FoundObject target)
     {
-        List<int> removingObjects = new List<int>();
         for (int i = 0;i < Intuition.Count;i++)
         {
             if(Intuition[i].objectName == target.objectName)
@@ -117,7 +116,6 @@ public class PlayerBase : MonoBehaviour
         {
             Vector2 t = this.transform.position;
             Vector2 o = this.opponent.position;
-            Debug.Log("Bite me =" + t + " , " + o);
             if (t.x > o.x)
             {
                 transform.localScale = new Vector2(-1,1);
@@ -136,6 +134,14 @@ public class PlayerBase : MonoBehaviour
             OnPlatform = true;
         }
 
+    }
+
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        if(col.transform.tag == "Damage")
+        {
+            lifePoints = lifePoints - col.gameObject.GetComponent<Hitbox>().damage;
+        }
     }
 
     private void OnCollisionExit2D(Collision2D col)
@@ -162,7 +168,7 @@ public class PlayerBase : MonoBehaviour
         }
         else
         {
-            return "Wait";
+            return "Idle";
         }
     }
 

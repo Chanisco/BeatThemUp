@@ -43,10 +43,10 @@ public class AreaCheckHitBox : MonoBehaviour {
 
 [System.Serializable]
 public class FoundObject{
-
     public string objectName;
     public FindAbleObjectType objectType;
     public Vector2 objectPos;
+
     public FoundObject(string ObjectName, FindAbleObjectType ObjectType,Vector2 ObjectPos)
     {
         this.objectName = ObjectName;
