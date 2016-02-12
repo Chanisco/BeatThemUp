@@ -6,12 +6,12 @@ public class MenuItem : MonoBehaviour {
 	public int index;
 	public Texture image;
 	public bool backButton = false;
-	[SerializePrivateVariables] bool placed = false;
+	[SerializeField] bool placed = false;
 	public bool options = false;
-	[SerializePrivateVariables] Vector3 loc;
-	[SerializePrivateVariables] Vector3 backButtonLoc = new Vector3(5,3.7f,0);
-	[SerializePrivateVariables] Vector3 offset = new Vector3(0,-2,0);
-	[SerializePrivateVariables] Vector3 drawScale;
+	[SerializeField] Vector3 loc;
+	[SerializeField] Vector3 backButtonLoc = new Vector3(5,3.7f,0);
+	[SerializeField] Vector3 offset = new Vector3(0,-2,0);
+	[SerializeField] Vector3 drawScale;
 	[SerializeField] float insertTime;
 
 	void Start(){

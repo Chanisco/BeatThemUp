@@ -9,10 +9,10 @@ public class Healthbar : MonoBehaviour {
 	[SerializeField] Texture healthBarBack;
 	[SerializeField] List<float> showHealth;
 	[SerializeField] float dropSpeed;
-	[SerializePrivateVariables] int time = 100;
-	[SerializePrivateVariables] GUIStyle style;
+	[SerializeField] int time = 100;
+	[SerializeField] GUIStyle style;
 	[SerializeField] Font font;
-	[SerializePrivateVariables] string add0string = "";
+	[SerializeField] string add0string = "";
 
 	void Awake(){
 		style = new GUIStyle ();

@@ -7,10 +7,10 @@ public class MainMenu : MonoBehaviour {
 	[SerializeField] Texture[] optionsItems;
 	[SerializeField] Texture backButton;
 	[SerializeField] GameObject blankObject;
-	[SerializePrivateVariables] int index = 0;
+	[SerializeField] int index = 0;
 	[SerializeField] Vector3 spawnLoc;
-	[SerializePrivateVariables] bool menu = true;
-	[SerializePrivateVariables] GUIStyle style;
+	[SerializeField] bool menu = true;
+	[SerializeField] GUIStyle style;
 	[SerializeField] float musicVolume=1;
 	[SerializeField]float effectVolume=1;
 	[SerializeField] int difficulty;
