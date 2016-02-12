@@ -48,9 +48,7 @@ namespace Arena
         void CheckOnHealth()
         {
             healthBar.ChangeHealth(0, Players[0].playerInformation.lifePoints);
-            Debug.Log(Players[0].playerInformation.lifePoints);
             healthBar.ChangeHealth(1, Players[1].playerInformation.lifePoints);
-            Debug.Log(Players[1].playerInformation.lifePoints);
 
         }
 
