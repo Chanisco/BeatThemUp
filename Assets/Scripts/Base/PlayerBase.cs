@@ -78,7 +78,7 @@ public class PlayerBase : MonoBehaviour
             transform.Translate(-1 * speed,0,0);
             if(opponent == null)
             {
-                transform.localScale = new Vector2(-1, 1);
+                transform.localScale = new Vector2(-0.5f, 1);
             }
         }
         else if (Input.GetKey(playerCommands.right))
@@ -86,7 +86,7 @@ public class PlayerBase : MonoBehaviour
             transform.Translate(1 * speed, 0, 0);
             if (opponent == null)
             {
-                transform.localScale = new Vector2(1, 1);
+                transform.localScale = new Vector2(0.5f, 1);
             }
         }
 
