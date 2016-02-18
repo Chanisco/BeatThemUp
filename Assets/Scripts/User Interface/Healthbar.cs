@@ -9,17 +9,16 @@ public class Healthbar : MonoBehaviour {
 	[SerializeField] Texture healthBarBack;
 	[SerializeField] List<float> showHealth;
 	[SerializeField] float dropSpeed;
-	[SerializePrivateVariables] int time = 100;
-	[SerializePrivateVariables] GUIStyle style;
+	[SerializeField] int time = 100;
+	[SerializeField] GUIStyle style;
 	[SerializeField] Font font;
-	[SerializePrivateVariables] string add0string = "";
+	[SerializeField] string add0string = "";
 
-	void Start(){
+	void Awake(){
 		style = new GUIStyle ();
 		style.font = font;
 		style.normal.textColor = Color.red;
 		style.fontSize = (20 * 1920)/Screen.width;
-		Init (2);
 	}
 
 	public void Init(int playerAmount){
@@ -30,7 +29,7 @@ public class Healthbar : MonoBehaviour {
 	}
 
 	public void ChangeHealth(int playerNumber, float change){
-		playerHealth [playerNumber] += change;
+		playerHealth [playerNumber] = change;
 		if (playerHealth [playerNumber] <= 0) {
 			Debug.Log("Dead");
 		}
@@ -52,8 +51,8 @@ public class Healthbar : MonoBehaviour {
 		}
 		showHealth [0] = Mathf.SmoothStep (showHealth [0], playerHealth [0], dropSpeed);
 		showHealth [1] = Mathf.SmoothStep (showHealth [1], playerHealth [1], dropSpeed);
-		if(Input.GetKeyDown(KeyCode.A)){
+	/*	if(Input.GetKeyDown(KeyCode.A)){
 			ChangeHealth(0,Random.Range(-1,-5));
-		}
+		}*/
 	}
 }

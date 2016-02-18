@@ -4,8 +4,8 @@ using System.Collections;
 public class InsertCoin : MonoBehaviour {
 
 	[SerializeField] float offsetTime = 0;
-	[SerializePrivateVariables] float timer = 0;
-	[SerializePrivateVariables] bool on = false;
+	[SerializeField] float timer = 0;
+	[SerializeField] bool on = false;
 	public GameObject nextScreen;
 
 	void Start(){
