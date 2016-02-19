@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MenuItem : MonoBehaviour {
+public class MenuItemScript : MonoBehaviour {
 
 	public int index;
 	public Texture image;

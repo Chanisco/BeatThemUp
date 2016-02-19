@@ -65,11 +65,11 @@ public class MainMenu : MonoBehaviour {
 	public void AddMenuItems(){
 		index = 0;
 		foreach (Texture item in menuItems) {
-			blankObject.GetComponent<MenuItem> ().index = index;
-			blankObject.GetComponent<MenuItem> ().options = false;
-			blankObject.GetComponent<MenuItem> ().backButton = false;
-			blankObject.GetComponent<MenuItem> ().image = menuItems [index];
-			blankObject.GetComponent<MenuItem> ().checkPlacement ();
+			blankObject.GetComponent<MenuItemScript> ().index = index;
+			blankObject.GetComponent<MenuItemScript> ().options = false;
+			blankObject.GetComponent<MenuItemScript> ().backButton = false;
+			blankObject.GetComponent<MenuItemScript> ().image = menuItems [index];
+			blankObject.GetComponent<MenuItemScript> ().checkPlacement ();
 			Instantiate (blankObject,spawnLoc,blankObject.transform.rotation);
 			index++;
 		}
@@ -79,15 +79,15 @@ public class MainMenu : MonoBehaviour {
 	public void AddOptionItems(){
 		index = 0;
 		foreach (Texture optionItem in optionsItems) {
-			blankObject.GetComponent<MenuItem> ().index = index;
-			blankObject.GetComponent<MenuItem> ().options = true;
-			blankObject.GetComponent<MenuItem> ().backButton = false;
-			blankObject.GetComponent<MenuItem> ().image = optionsItems [index];
+			blankObject.GetComponent<MenuItemScript> ().index = index;
+			blankObject.GetComponent<MenuItemScript> ().options = true;
+			blankObject.GetComponent<MenuItemScript> ().backButton = false;
+			blankObject.GetComponent<MenuItemScript> ().image = optionsItems [index];
 			Instantiate (blankObject, spawnLoc, blankObject.transform.rotation);
 			index++;
 		}
-		blankObject.GetComponent<MenuItem> ().image = backButton;
-		blankObject.GetComponent<MenuItem> ().backButton = true;
+		blankObject.GetComponent<MenuItemScript> ().image = backButton;
+		blankObject.GetComponent<MenuItemScript> ().backButton = true;
 		Instantiate (blankObject, spawnLoc, blankObject.transform.rotation);
 		menu = false;
 		index = 0;
