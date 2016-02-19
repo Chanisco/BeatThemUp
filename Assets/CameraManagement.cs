@@ -7,7 +7,9 @@ public class CameraManagement : MonoBehaviour {
     [SerializeField]
     public Camera currentCamera;
     private ArenaManagement arena;
-    private Vector2 player1X, player2X;
+    private Vector3 player1X, player2X;
+    float Xpos,Ypos,Zpos;
+    Vector3 targetPos;
 
     void Awake()
     {
@@ -23,10 +25,48 @@ public class CameraManagement : MonoBehaviour {
 
     void Update()
     {
-        player1X = arena.Players[0].playerInformation.transform.position;
-        player2X = arena.Players[1].playerInformation.transform.position;
+        Mathf.Clamp(Xpos, -30, 30);
+        player1X = new Vector3(arena.Players[0].playerInformation.transform.position.x,0,-10);
+        player2X = new Vector3(arena.Players[1].playerInformation.transform.position.x,0,-10);
+        targetPos = Vector3.Lerp(player1X, player2X, 0.5f);
+        Xpos = targetPos.x;
+        Ypos = targetPos.y;
+        Zpos = targetPos.z;
+        
 
-        Debug.Log(Vector2.Distance(player1X, player2X));
+
+        AdjustCameraSize(Vector2.Distance(player1X, player2X));
+
+        currentCamera.transform.localPosition = AdjustCameraPosition(new Vector3(Xpos,Ypos,Zpos),-30,30);
+    }
+
+    void AdjustCameraSize(float DistFromPlayers)
+    {
+        if(DistFromPlayers < 15)
+        {
+            currentCamera.fieldOfView = Mathf.SmoothStep(currentCamera.fieldOfView, 50, 0.1f);
+        }
+        else
+        {
+            currentCamera.fieldOfView = Mathf.SmoothStep(currentCamera.fieldOfView,50 + DistFromPlayers,0.1f);
+        }
+    }
+
+    Vector3 AdjustCameraPosition(Vector3 tPos,float MinX, float MaxX)
+    {
+        if(tPos.x < MinX)
+        {
+            return new Vector3(-30, tPos.y, tPos.z);
+        }
+        else if(tPos.x > MaxX)
+        {
+            return new Vector3(30, tPos.y, tPos.z);
+
+        }
+        else
+        {
+            return tPos;
+        }
     }
 
     void MoveCamera(Direction targetDir)
