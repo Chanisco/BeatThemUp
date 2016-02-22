@@ -8,6 +8,7 @@ public class PlayerBase : MonoBehaviour
     [SerializeField] public List<FoundObject> Intuition = new List<FoundObject>();
     [SerializeField] public float lifePoints = 100;
     [SerializeField] public PlayerCommands playerCommands;
+    private Vector3 originalSize;
 
     enum PositionAgainstPlayer
     {
@@ -25,6 +26,7 @@ public class PlayerBase : MonoBehaviour
     void Awake()
     {
         Init();
+        originalSize = transform.localScale;
     }
     
 
@@ -78,7 +80,7 @@ public class PlayerBase : MonoBehaviour
             transform.Translate(-1 * speed,0,0);
             if(opponent == null)
             {
-                transform.localScale = new Vector2(-0.5f, 0.5f);
+                transform.localScale = new Vector2(-originalSize.x, originalSize.y);
             }
         }
         else if (Input.GetKey(playerCommands.right))
@@ -86,7 +88,7 @@ public class PlayerBase : MonoBehaviour
             transform.Translate(1 * speed, 0, 0);
             if (opponent == null)
             {
-                transform.localScale = new Vector2(0.5f, 0.5f);
+                transform.localScale = new Vector2(originalSize.x, originalSize.y);
             }
         }
 
@@ -105,11 +107,11 @@ public class PlayerBase : MonoBehaviour
             Vector2 o = this.opponent.position;
             if (t.x > o.x)
             {
-                transform.localScale = new Vector2(-0.5f,0.5f);
+                transform.localScale = new Vector2(-originalSize.x, originalSize.y);
             }
             else
             {
-                transform.localScale = new Vector2(0.5f, 0.5f);
+                transform.localScale = new Vector2(originalSize.x, originalSize.y);
             }
         }
     }
