@@ -11,21 +11,31 @@ public class CharacterAnimation : MonoBehaviour {
         ConditionsOff();
     }
 
-    void TurnAnimationOn(string targetbool)
+    public void TurnAnimationOn(string targetbool)
     {
-
+        ConditionsOff();
         animator.SetBool(targetbool, true);
 
     }
-    void TurnAnimationOff(string targetbool)
+    public void TurnAnimationOff(string targetbool)
     {
         animator.SetBool(targetbool, false);
 
     }
-    void ConditionsOff()
+
+    public void PlayAnimation(string targetAnimation)
     {
-        animator.SetBool("Jump", false);
-        animator.SetBool("Atk", false);
-        animator.SetBool("Walk", false);
+        animator.Play(targetAnimation);
     }
+    private void ConditionsOff()
+    {
+        TurnAnimationOff("Movement");
+    }
+}
+public enum CharacterAnimations
+{
+    Idle,
+    Walk,
+    Punch,
+    Kick
 }

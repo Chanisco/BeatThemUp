@@ -11,9 +11,14 @@ public class Mila : PlayerBase{
     {
         if(attack() == "Light")
         {
+            animator.PlayAnimation("Punch");
             Hit(0.5f,10,HitPosition.TOP);
         }
-
+        else if(attack() == "Heavy")
+        {
+            animator.PlayAnimation("Block");
+            Hit(0.5f, 10, HitPosition.TOP);
+        }
         LookAtOpponent();
         BasicMovement();
     }

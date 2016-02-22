@@ -10,6 +10,8 @@ public class PlayerBase : MonoBehaviour
     [SerializeField] public PlayerCommands playerCommands;
     private Vector3 originalSize;
 
+    public CharacterAnimation animator;
+
     enum PositionAgainstPlayer
     {
         LeftOpponent,
@@ -77,6 +79,7 @@ public class PlayerBase : MonoBehaviour
     {
         if (Input.GetKey(playerCommands.left))
         {
+            animator.TurnAnimationOn("Movement");
             transform.Translate(-1 * speed,0,0);
             if(opponent == null)
             {
@@ -85,11 +88,16 @@ public class PlayerBase : MonoBehaviour
         }
         else if (Input.GetKey(playerCommands.right))
         {
+            animator.TurnAnimationOn("Movement");
             transform.Translate(1 * speed, 0, 0);
             if (opponent == null)
             {
                 transform.localScale = new Vector2(originalSize.x, originalSize.y);
             }
+        }
+        else
+        {
+            animator.TurnAnimationOff("Movement");
         }
 
         if (Input.GetKeyDown(playerCommands.up))
@@ -129,6 +137,7 @@ public class PlayerBase : MonoBehaviour
     {
         if(col.transform.tag == "Damage")
         {
+            animator.PlayAnimation("Hit");
             lifePoints = lifePoints - col.gameObject.GetComponent<Hitbox>().damage;
         }
     }
@@ -151,9 +160,12 @@ public class PlayerBase : MonoBehaviour
 
     public string attack()
     {
-        if (Input.GetKeyDown(playerCommands.attack))
+        if (Input.GetKeyDown(playerCommands.lightAttack))
         {
             return "Light";
+        }else if (Input.GetKeyDown(playerCommands.heavyAttack))
+        {
+            return "Heavy";
         }
         else
         {
@@ -163,3 +175,4 @@ public class PlayerBase : MonoBehaviour
     
 
 }
+
