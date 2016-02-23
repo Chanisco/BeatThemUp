@@ -16,7 +16,7 @@ public class Mila : PlayerBase{
         }
         else if(attack() == "Heavy")
         {
-            animator.PlayAnimation("Block");
+            animator.PlayAnimation("Kick");
             Hit(0.5f, 10, HitPosition.TOP);
         }
         LookAtOpponent();

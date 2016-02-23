@@ -48,7 +48,12 @@ public class CameraManagement : MonoBehaviour {
         }
         else
         {
-            currentCamera.fieldOfView = Mathf.SmoothStep(currentCamera.fieldOfView,50 + DistFromPlayers,0.1f);
+            Debug.Log(DistFromPlayers);
+            if(DistFromPlayers < 20)
+            {
+                currentCamera.fieldOfView = Mathf.SmoothStep(currentCamera.fieldOfView, 50 + DistFromPlayers, 0.1f);
+
+            }
         }
     }
 
