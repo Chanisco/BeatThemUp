@@ -42,19 +42,19 @@ public class CameraManagement : MonoBehaviour {
 
     void AdjustCameraSize(float DistFromPlayers)
     {
-        if(DistFromPlayers < 15)
+		//Debug.Log(DistFromPlayers);
+      /*  if(DistFromPlayers < 15)
         {
             currentCamera.fieldOfView = Mathf.SmoothStep(currentCamera.fieldOfView, 50, 0.1f);
         }
         else
         {
-            Debug.Log(DistFromPlayers);
             if(DistFromPlayers < 20)
-            {
+            {*/
                 currentCamera.fieldOfView = Mathf.SmoothStep(currentCamera.fieldOfView, 50 + DistFromPlayers, 0.1f);
-
+		/*
             }
-        }
+        }*/
     }
 
     Vector3 AdjustCameraPosition(Vector3 tPos,float MinX, float MaxX)

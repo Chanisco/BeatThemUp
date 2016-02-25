@@ -12,6 +12,7 @@ namespace Arena
         public List<GameObject> chosenCharacters = new List<GameObject>();
         [SerializeField]
         Healthbar healthBar;
+		[SerializeField] private bool gameRunning=true;
 
         [SerializeField]
         public Vector2 Player1Pos, Player2Pos;
@@ -41,15 +42,20 @@ namespace Arena
 
         void Update()
         {
-
-            CheckOnHealth();
+			if (gameRunning) {
+				CheckOnHealth ();
+			}
         }
 
         void CheckOnHealth()
         {
             healthBar.ChangeHealth(0, Players[0].playerInformation.lifePoints);
             healthBar.ChangeHealth(1, Players[1].playerInformation.lifePoints);
-
+			if (Players [0].playerInformation.lifePoints <= 0 || Players [1].playerInformation.lifePoints<=0) {
+				Players [0].playerInformation.gameRunning = false;
+				Players [1].playerInformation.gameRunning = false;
+				gameRunning = false;
+			}
         }
 
         void InstantiatePlayer()
