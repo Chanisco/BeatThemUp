@@ -37,5 +37,7 @@ public enum CharacterAnimations
     Idle,
     Walk,
     Punch,
-    Kick
+    Kick,
+    Hit,
+    Death
 }

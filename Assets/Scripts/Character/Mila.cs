@@ -9,18 +9,22 @@ public class Mila : PlayerBase{
 
     void Update()
     {
-        if(attack() == "Light")
+        if (Alive() == true)
         {
-            animator.PlayAnimation("Punch");
-            Hit(0.5f,10,HitPosition.TOP);
+            if (attack() == "Light")
+            {
+                animator.PlayAnimation("Punch");
+                Hit(0.5f, 10, HitPosition.TOP);
+            }
+            else if (attack() == "Heavy")
+            {
+                animator.PlayAnimation("Kick");
+                Hit(0.5f, 10, HitPosition.TOP);
+            }
+            LookAtOpponent();
+            BasicMovement();
         }
-        else if(attack() == "Heavy")
-        {
-            animator.PlayAnimation("Kick");
-            Hit(0.5f, 10, HitPosition.TOP);
-        }
-        LookAtOpponent();
-        BasicMovement();
+      
     }
     
     void Hit(float Lifetime,float Damage,HitPosition HitArea)

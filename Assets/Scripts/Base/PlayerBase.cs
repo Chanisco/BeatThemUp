@@ -152,7 +152,18 @@ public class PlayerBase : MonoBehaviour
             ownRigidbody.velocity = new Vector3(0, 5, 0);
         }
     }
-
+    public bool Alive()
+    {
+        if(lifePoints > 0)
+        {
+            return true;
+        }
+        else
+        {
+            animator.TurnAnimationOn("Death");
+            return false;
+        }
+    }
     public string attack()
     {
 		if (gameRunning) {
