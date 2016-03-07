@@ -10,6 +10,7 @@ public class MainMenu : MonoBehaviour {
 	[SerializeField] int index = 0;
 	[SerializeField] Vector3 spawnLoc;
 	[SerializeField] bool menu = true;
+	[SerializeField] bool options = false;
 	[SerializeField] GUIStyle style;
 	[SerializeField] float musicVolume=1;
 	[SerializeField]float effectVolume=1;
@@ -28,6 +29,7 @@ public class MainMenu : MonoBehaviour {
 				if (GUI.Button (new Rect (Screen.width * 0.3f, Screen.height * (0.15f + (0.2f * index)), Screen.width * 0.4f, Screen.height * 0.15f), "", style)) {
 					if (index == 0) {
 						if (menu) {
+							Application.LoadLevel (1);
 							Debug.Log ("pl1vspl2");
 						}
 						// open new scene
@@ -70,6 +72,7 @@ public class MainMenu : MonoBehaviour {
 			blankObject.GetComponent<MenuItemScript> ().backButton = false;
 			blankObject.GetComponent<MenuItemScript> ().image = menuItems [index];
 			blankObject.GetComponent<MenuItemScript> ().checkPlacement ();
+			blankObject.GetComponent<MenuItemScript> ().insertTime = 0.05f;
 			Instantiate (blankObject,spawnLoc,blankObject.transform.rotation);
 			index++;
 		}
@@ -83,6 +86,7 @@ public class MainMenu : MonoBehaviour {
 			blankObject.GetComponent<MenuItemScript> ().options = true;
 			blankObject.GetComponent<MenuItemScript> ().backButton = false;
 			blankObject.GetComponent<MenuItemScript> ().image = optionsItems [index];
+			blankObject.GetComponent<MenuItemScript> ().insertTime = 0.05f;
 			Instantiate (blankObject, spawnLoc, blankObject.transform.rotation);
 			index++;
 		}
