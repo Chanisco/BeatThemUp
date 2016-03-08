@@ -5,7 +5,7 @@ using System.Collections.Generic;
 public class Healthbar : MonoBehaviour {
 	
 	public List<float> playerHealth;
-	[SerializePrivateVariables] WinLoseScreen winLose;
+	[SerializeField] WinLoseScreen winLose;
 	[SerializeField] public Arena.ArenaManagement arena;
 	[SerializeField] Texture healthBarFrontLeft;
 	[SerializeField] Texture healthBarFrontRight;
@@ -18,7 +18,7 @@ public class Healthbar : MonoBehaviour {
 	[SerializeField] int time = 10;
 	[SerializeField] GUIStyle style;
 	[SerializeField] Font font;
-	[SerializePrivateVariables] string add0string = "";
+	[SerializeField] string add0string = "";
 	[SerializeField] public bool pl1won = false;
 	[SerializeField] public bool pl2won = false;
 	[SerializeField] private bool end = false;

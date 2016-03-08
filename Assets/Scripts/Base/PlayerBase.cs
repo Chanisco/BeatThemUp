@@ -10,6 +10,7 @@ public class PlayerBase : MonoBehaviour
     [SerializeField] public PlayerCommands playerCommands;
     private Vector3 originalSize;
 	[SerializeField] public bool gameRunning = true;
+    private bool blocking;
 
     public CharacterAnimation animator;
 
@@ -28,15 +29,7 @@ public class PlayerBase : MonoBehaviour
 
     void Awake()
     {
-        Init();
         originalSize = transform.localScale;
-    }
-    
-
-    public virtual void Init()
-    {
-
-
     }
 
     public void FindObject(FoundObject target)
@@ -78,27 +71,49 @@ public class PlayerBase : MonoBehaviour
     //Commands
     public virtual void BasicMovement()
     {
-		if (gameRunning) {
-			if (Input.GetKey (playerCommands.left)) {
-				animator.TurnAnimationOn ("Movement");
-				transform.Translate (-1 * speed, 0, 0);
-				if (opponent == null) {
-					transform.localScale = new Vector2 (-originalSize.x, originalSize.y);
-				}
-			} else if (Input.GetKey (playerCommands.right)) {
-				animator.TurnAnimationOn ("Movement");
-				transform.Translate (1 * speed, 0, 0);
-				if (opponent == null) {
-					transform.localScale = new Vector2 (originalSize.x, originalSize.y);
-				}
-			} else {
-				animator.TurnAnimationOff ("Movement");
-			}
+		if (gameRunning == true)
+        {
+            if (blocking == false)
+            {
+                if (Input.GetKey(playerCommands.left))
+                {
+                    animator.TurnAnimationOn("Movement");
+                    transform.Translate(-1 * speed, 0, 0);
+                    if (opponent == null)
+                    {
+                        transform.localScale = new Vector2(-originalSize.x, originalSize.y);
+                    }
+                }
+                else if (Input.GetKey(playerCommands.right))
+                {
+                    animator.TurnAnimationOn("Movement");
+                    transform.Translate(1 * speed, 0, 0);
+                    if (opponent == null)
+                    {
+                        transform.localScale = new Vector2(originalSize.x, originalSize.y);
+                    }
+                }
+                else
+                {
+                    animator.TurnAnimationOff("Movement");
+                }
+            }
 
-			if (Input.GetKeyDown (playerCommands.up)) {
-				JumpCommand ();
-			}
-		}
+            if (Input.GetKeyDown(playerCommands.up))
+            {
+                JumpCommand();
+            }
+
+            if (Input.GetKey(playerCommands.down))
+            {
+                block(true);
+            }
+
+            if (Input.GetKeyUp(playerCommands.down))
+            {
+                block(false);
+            }
+        }
     }
 
     public virtual void LookAtOpponent()
@@ -130,10 +145,13 @@ public class PlayerBase : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D col)
     {
-		if(col.transform.tag == "Damage" && gameRunning)
+        if (blocking == false)
         {
-            animator.PlayAnimation("Hit");
-            lifePoints = lifePoints - col.gameObject.GetComponent<Hitbox>().damage;
+            if (col.transform.tag == "Damage" && gameRunning)
+            {
+                animator.PlayAnimation("Hit");
+                lifePoints = lifePoints - col.gameObject.GetComponent<Hitbox>().damage;
+            }
         }
     }
 
@@ -160,23 +178,52 @@ public class PlayerBase : MonoBehaviour
         }
         else
         {
-            animator.TurnAnimationOn("Death");
+            animator.LockAnimationWithAnimation("Death");
             return false;
+        }
+    }
+    
+    private void block(bool activation)
+    {
+        if(activation == true)
+        {
+            blocking = true;
+            animator.TurnAnimationOn("Block");
+        }
+        else
+        {
+            blocking = false;
+            animator.TurnAnimationOff("Block");
         }
     }
     public string attack()
     {
-		if (gameRunning) {
-			if (Input.GetKeyDown (playerCommands.lightAttack)) {
-				return "Light";
-			} else if (Input.GetKeyDown (playerCommands.heavyAttack)) {
-				return "Heavy";
-			} else {
-				return "Idle";
-			}
-		} else {
-			return "Idle";
-		}
+        if (animator.currentAnimation == CharacterAnimationsStates.Idle)
+        {
+            if (gameRunning)
+            {
+                if (Input.GetKeyDown(playerCommands.lightAttack))
+                {
+                    return "Light";
+                }
+                else if (Input.GetKeyDown(playerCommands.heavyAttack))
+                {
+                    return "Heavy";
+                }
+                else
+                {
+                    return "Idle";
+                }
+            }
+            else
+            {
+                return "Idle";
+            }
+        }
+        else
+        {
+            return "Idle";
+        }
     }
 }
 

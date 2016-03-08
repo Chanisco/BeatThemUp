@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class Mila : PlayerBase{
+public class CharacterBehaviour : PlayerBase{
     [SerializeField] private GameObject AreaCheckHitBox;
     [SerializeField] private HitboxElement AttackHitbox;
 
