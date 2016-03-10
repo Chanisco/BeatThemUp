@@ -42,7 +42,8 @@ namespace Arena
 
         void Update()
         {
-			if (gameRunning) {
+            Application.targetFrameRate = 60;
+            if (gameRunning) {
 				CheckOnHealth ();
 			}
         }

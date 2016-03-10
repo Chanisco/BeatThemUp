@@ -13,7 +13,7 @@ public class CharacterAnimation : MonoBehaviour {
         animator = GetComponent<Animator>();
         ConditionsOff();
     }
-    private void FixedUpdate()
+    private void Update()
     {
         AnimatorStateInfo currentBaseState = animator.GetCurrentAnimatorStateInfo(0);
         
